@@ -1,0 +1,7 @@
+# Raw Olist tables: re-download with  python src/fetch_data.py
+data/raw/
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

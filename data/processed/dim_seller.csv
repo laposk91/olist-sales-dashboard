@@ -1,0 +1,3030 @@
+seller_key,seller_city,seller_state,seller_state_name,seller_region
+1,Santo Andre,SP,São Paulo,Southeast
+2,Cariacica,ES,Espírito Santo,Southeast
+3,Franca,SP,São Paulo,Southeast
+4,Goiania,GO,Goiás,Central-West
+5,Ibitinga,SP,São Paulo,Southeast
+6,Guarulhos,SP,São Paulo,Southeast
+7,Sao Paulo,SP,São Paulo,Southeast
+8,Belo Horizonte,MG,Minas Gerais,Southeast
+9,Sao Paulo,SP,São Paulo,Southeast
+10,Maringa,PR,Paraná,South
+11,Sao Paulo,SP,São Paulo,Southeast
+12,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+13,Curitiba,PR,Paraná,South
+14,Curitiba,PR,Paraná,South
+15,Timoteo,MG,Minas Gerais,Southeast
+16,Maringa,PR,Paraná,South
+17,Ibitinga,SP,São Paulo,Southeast
+18,Uruacu,GO,Goiás,Central-West
+19,Catanduva,SP,São Paulo,Southeast
+20,Francisco Beltrao,PR,Paraná,South
+21,Mogi Das Cruzes,SP,São Paulo,Southeast
+22,Ribeirao Preto / Sao Paulo,SP,São Paulo,Southeast
+23,Londrina,PR,Paraná,South
+24,Curitiba,PR,Paraná,South
+25,Sao Paulo,SP,São Paulo,Southeast
+26,Sao Paulo,SP,São Paulo,Southeast
+27,Ribeirao Das Neves,MG,Minas Gerais,Southeast
+28,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+29,Ibitinga,SP,São Paulo,Southeast
+30,Americana,SP,São Paulo,Southeast
+31,Natal,RN,Rio Grande do Norte,Northeast
+32,Contagem,MG,Minas Gerais,Southeast
+33,Santo Andre,SP,São Paulo,Southeast
+34,Curitiba,PR,Paraná,South
+35,Botucatu,SP,São Paulo,Southeast
+36,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+37,Blumenau,SC,Santa Catarina,South
+38,Sao Jose Dos Campos,SP,São Paulo,Southeast
+39,Ribeirao Pires,SP,São Paulo,Southeast
+40,Sao Paulo,SP,São Paulo,Southeast
+41,Maua,SP,São Paulo,Southeast
+42,Uberlandia,MG,Minas Gerais,Southeast
+43,Sao Bento Do Sul,SC,Santa Catarina,South
+44,Sorocaba,SP,São Paulo,Southeast
+45,Bombinhas,SC,Santa Catarina,South
+46,Maua,SP,São Paulo,Southeast
+47,Osasco,SP,São Paulo,Southeast
+48,Ivoti,RS,Rio Grande do Sul,South
+49,Franca,SP,São Paulo,Southeast
+50,Cosmopolis,SP,São Paulo,Southeast
+51,Santo Antonio De Padua,RJ,Rio de Janeiro,Southeast
+52,Sao Paulo,SP,São Paulo,Southeast
+53,Lajeado,RS,Rio Grande do Sul,South
+54,Sao Paulo,SP,São Paulo,Southeast
+55,Belo Horizonte,MG,Minas Gerais,Southeast
+56,Rodeio,SC,Santa Catarina,South
+57,Itajobi,SP,São Paulo,Southeast
+58,Queimados,RJ,Rio de Janeiro,Southeast
+59,Sao Paulo,SP,São Paulo,Southeast
+60,Criciuma,SC,Santa Catarina,South
+61,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+62,Santo Andre,SP,São Paulo,Southeast
+63,Sao Paulo,SP,São Paulo,Southeast
+64,Goiania,GO,Goiás,Central-West
+65,Sao Paulo,SP,São Paulo,Southeast
+66,Barueri,SP,São Paulo,Southeast
+67,Alfenas,MG,Minas Gerais,Southeast
+68,Sao Paulo - Sp,SP,São Paulo,Southeast
+69,Belo Horizonte,MG,Minas Gerais,Southeast
+70,Mogi Das Cruzes,SP,São Paulo,Southeast
+71,Santo Angelo,RS,Rio Grande do Sul,South
+72,Sao Paulo,SP,São Paulo,Southeast
+73,Lajeado,RS,Rio Grande do Sul,South
+74,Paincandu,PR,Paraná,South
+75,Sao Paulo - Sp,SP,São Paulo,Southeast
+76,Foz Do Iguacu,PR,Paraná,South
+77,Londrina,PR,Paraná,South
+78,Sao Paulo,SP,São Paulo,Southeast
+79,Sao Luis,MA,Maranhão,Northeast
+80,Belo Horizonte,MG,Minas Gerais,Southeast
+81,Maringa,PR,Paraná,South
+82,Porto Alegre,RS,Rio Grande do Sul,South
+83,Joao Pessoa,PB,Paraíba,Northeast
+84,Sao Paulo,SP,São Paulo,Southeast
+85,Guarulhos,SP,São Paulo,Southeast
+86,Sao Paulo,SP,São Paulo,Southeast
+87,Saquarema,RJ,Rio de Janeiro,Southeast
+88,Ribeirao Preto,SP,São Paulo,Southeast
+89,Sorocaba,SP,São Paulo,Southeast
+90,Belo Horizonte,MG,Minas Gerais,Southeast
+91,Sao Paulo,SP,São Paulo,Southeast
+92,Sao Paulo,SP,São Paulo,Southeast
+93,Sao Paulo,SP,São Paulo,Southeast
+94,Sao Paulo,SP,São Paulo,Southeast
+95,Ibitinga,SP,São Paulo,Southeast
+96,Sao Paulo,SP,São Paulo,Southeast
+97,Belo Horizonte,MG,Minas Gerais,Southeast
+98,Osasco,SP,São Paulo,Southeast
+99,Osasco,SP,São Paulo,Southeast
+100,Sao Paulo,SP,São Paulo,Southeast
+101,Vespasiano,MG,Minas Gerais,Southeast
+102,Botucatu,SP,São Paulo,Southeast
+103,Taubate,SP,São Paulo,Southeast
+104,Ribeirao Pires,SP,São Paulo,Southeast
+105,Barueri,SP,São Paulo,Southeast
+106,Ferraz De Vasconcelos,SP,São Paulo,Southeast
+107,Cananeia,SP,São Paulo,Southeast
+108,Itapevi,SP,São Paulo,Southeast
+109,Uba,MG,Minas Gerais,Southeast
+110,Cascavel,PR,Paraná,South
+111,Belo Horizonte,MG,Minas Gerais,Southeast
+112,Marilia,SP,São Paulo,Southeast
+113,Santos,SP,São Paulo,Southeast
+114,Canoas,RS,Rio Grande do Sul,South
+115,Sao Paulo,SP,São Paulo,Southeast
+116,Osasco,SP,São Paulo,Southeast
+117,Ribeirao Preto,SP,São Paulo,Southeast
+118,Taboao Da Serra,SP,São Paulo,Southeast
+119,Sao Paulo,SP,São Paulo,Southeast
+120,Sao Paulo,SP,São Paulo,Southeast
+121,Sao Paulo,SP,São Paulo,Southeast
+122,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+123,Contagem,MG,Minas Gerais,Southeast
+124,Sao Paulo,SP,São Paulo,Southeast
+125,Jundiai,SP,São Paulo,Southeast
+126,Alfenas,MG,Minas Gerais,Southeast
+127,Sao Paulo,SP,São Paulo,Southeast
+128,Sao Paulo,SP,São Paulo,Southeast
+129,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+130,Louveira,SP,São Paulo,Southeast
+131,Curitiba,PR,Paraná,South
+132,Sorocaba,SP,São Paulo,Southeast
+133,Sao Paulo,SP,São Paulo,Southeast
+134,Santos,SP,São Paulo,Southeast
+135,Uberlandia,MG,Minas Gerais,Southeast
+136,Sao Paulo,SP,São Paulo,Southeast
+137,Guarulhos,SP,São Paulo,Southeast
+138,Sp,SP,São Paulo,Southeast
+139,Sao Roque,SP,São Paulo,Southeast
+140,Teixeira Soares,PR,Paraná,South
+141,Jaragua Do Sul,SC,Santa Catarina,South
+142,Aruja,SP,São Paulo,Southeast
+143,Belo Horizonte,MG,Minas Gerais,Southeast
+144,Canoas,RS,Rio Grande do Sul,South
+145,Maringa,PR,Paraná,South
+146,Itajai,SP,São Paulo,Southeast
+147,Sao Paulo,SP,São Paulo,Southeast
+148,Sao Roque,SP,São Paulo,Southeast
+149,Sao Paulo,SP,São Paulo,Southeast
+150,Sao Paulo,SP,São Paulo,Southeast
+151,Sao Paulo,SP,São Paulo,Southeast
+152,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+153,Valinhos,SP,São Paulo,Southeast
+154,Ponta Grossa,PR,Paraná,South
+155,Tres Coracoes,MG,Minas Gerais,Southeast
+156,Curitiba,PR,Paraná,South
+157,Tres Coracoes,MG,Minas Gerais,Southeast
+158,Sao Paulo,SP,São Paulo,Southeast
+159,Ribeirao Preto,SP,São Paulo,Southeast
+160,Porto Alegre,RS,Rio Grande do Sul,South
+161,Uberlandia,MG,Minas Gerais,Southeast
+162,Goiania,GO,Goiás,Central-West
+163,Santos,SP,São Paulo,Southeast
+164,Guarulhos,SP,São Paulo,Southeast
+165,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+166,Betim,MG,Minas Gerais,Southeast
+167,Porto Ferreira,SP,São Paulo,Southeast
+168,Francisco Morato,SP,São Paulo,Southeast
+169,Sao Paulo,SP,São Paulo,Southeast
+170,Itajai,SC,Santa Catarina,South
+171,Sete Lagoas,MG,Minas Gerais,Southeast
+172,Santo Andre,SP,São Paulo,Southeast
+173,Contagem,MG,Minas Gerais,Southeast
+174,Goiania,GO,Goiás,Central-West
+175,Americana,SP,São Paulo,Southeast
+176,Santana De Parnaiba,SP,São Paulo,Southeast
+177,Curitiba,PR,Paraná,South
+178,Franca,SP,São Paulo,Southeast
+179,Ibitinga,SP,São Paulo,Southeast
+180,Pedrinhas Paulista,SP,São Paulo,Southeast
+181,Lencois Paulista,SP,São Paulo,Southeast
+182,Florianopolis,SC,Santa Catarina,South
+183,Ourinhos,SP,São Paulo,Southeast
+184,Caxias Do Sul,RS,Rio Grande do Sul,South
+185,Presidente Prudente,SP,São Paulo,Southeast
+186,Batatais,SP,São Paulo,Southeast
+187,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+188,Rio Claro,SP,São Paulo,Southeast
+189,Rio Claro,SP,São Paulo,Southeast
+190,Sao Paulo,SP,São Paulo,Southeast
+191,Campinas,SP,São Paulo,Southeast
+192,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+193,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+194,Pederneiras,SP,São Paulo,Southeast
+195,Sao Paulo,SP,São Paulo,Southeast
+196,Campinas,SP,São Paulo,Southeast
+197,Uba,MG,Minas Gerais,Southeast
+198,Aparecida,SP,São Paulo,Southeast
+199,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+200,Catanduva,SP,São Paulo,Southeast
+201,Sao Joao De Meriti,RJ,Rio de Janeiro,Southeast
+202,Sao Miguel D'Oeste,SC,Santa Catarina,South
+203,Sao Paulo,SP,São Paulo,Southeast
+204,Pedreira,SP,São Paulo,Southeast
+205,Ribeirao Preto,SP,São Paulo,Southeast
+206,Ribeirao Preto,SP,São Paulo,Southeast
+207,Sao Paulo,SP,São Paulo,Southeast
+208,Sao Paulo,SP,São Paulo,Southeast
+209,Angra Dos Reis,RJ,Rio de Janeiro,Southeast
+210,Laranjeiras Do Sul,SP,São Paulo,Southeast
+211,Maringa,PR,Paraná,South
+212,Atibaia,SP,São Paulo,Southeast
+213,Sao Paulo,SP,São Paulo,Southeast
+214,Montenegro,RS,Rio Grande do Sul,South
+215,Praia Grande,SP,São Paulo,Southeast
+216,Bento Goncalves,RS,Rio Grande do Sul,South
+217,Sao Paulo,SP,São Paulo,Southeast
+218,Assis,SP,São Paulo,Southeast
+219,Sao Paulo,SP,São Paulo,Southeast
+220,Sao Paulo,SP,São Paulo,Southeast
+221,Valinhos,SP,São Paulo,Southeast
+222,Caxias Do Sul,RS,Rio Grande do Sul,South
+223,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+224,Sao Paulo,SP,São Paulo,Southeast
+225,Sao Paulo,SP,São Paulo,Southeast
+226,Sao Paulo,SP,São Paulo,Southeast
+227,Ponta Grossa,PR,Paraná,South
+228,Osasco,SP,São Paulo,Southeast
+229,Goiania,GO,Goiás,Central-West
+230,Santa Barbara D'Oeste,SP,São Paulo,Southeast
+231,Santos,SP,São Paulo,Southeast
+232,Sao Paulo,SP,São Paulo,Southeast
+233,Pitanga,PR,Paraná,South
+234,Sao Paulo,SP,São Paulo,Southeast
+235,Lauro De Freitas,BA,Bahia,Northeast
+236,Nova Friburgo,RJ,Rio de Janeiro,Southeast
+237,Sao Paulo,SP,São Paulo,Southeast
+238,Santo Andre,SP,São Paulo,Southeast
+239,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+240,Ipe,RS,Rio Grande do Sul,South
+241,Garuva,SC,Santa Catarina,South
+242,Ibitinga,SP,São Paulo,Southeast
+243,Monte Siao,MG,Minas Gerais,Southeast
+244,Sao Paulo,SP,São Paulo,Southeast
+245,Maringa,PR,Paraná,South
+246,Muqui,ES,Espírito Santo,Southeast
+247,Sao Paulo,SP,São Paulo,Southeast
+248,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+249,Bauru,SP,São Paulo,Southeast
+250,Ouro Preto,MG,Minas Gerais,Southeast
+251,Conselheiro Lafaiete,MG,Minas Gerais,Southeast
+252,Sao Paulo,SP,São Paulo,Southeast
+253,Garca,SP,São Paulo,Southeast
+254,Atibaia,SP,São Paulo,Southeast
+255,Colombo,PR,Paraná,South
+256,Guaira,PR,Paraná,South
+257,Ribeirao Preto,SP,São Paulo,Southeast
+258,Maringa,PR,Paraná,South
+259,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+260,Imbituba,SC,Santa Catarina,South
+261,Franca,SP,São Paulo,Southeast
+262,Sao Paulo,SP,São Paulo,Southeast
+263,Sp,SP,São Paulo,Southeast
+264,Minas Gerais,MG,Minas Gerais,Southeast
+265,Sao Caetano Do Sul,SP,São Paulo,Southeast
+266,Bariri,SP,São Paulo,Southeast
+267,Sao Vicente,SP,São Paulo,Southeast
+268,Santana De Parnaiba,SP,São Paulo,Southeast
+269,Guarulhos,SP,São Paulo,Southeast
+270,Taboao Da Serra,SP,São Paulo,Southeast
+271,Anapolis,GO,Goiás,Central-West
+272,Belo Horizonte,MG,Minas Gerais,Southeast
+273,Ribeirao Pires,SP,São Paulo,Southeast
+274,Mogi Guacu,SP,São Paulo,Southeast
+275,Guarulhos,SP,São Paulo,Southeast
+276,Betim,MG,Minas Gerais,Southeast
+277,Riberao Preto,SP,São Paulo,Southeast
+278,Sao Paulo,SP,São Paulo,Southeast
+279,Sao Paulo,SP,São Paulo,Southeast
+280,Sao Paulo,SP,São Paulo,Southeast
+281,Ibitinga,SP,São Paulo,Southeast
+282,Belo Horizonte,MG,Minas Gerais,Southeast
+283,Maua,SP,São Paulo,Southeast
+284,Joinville,SC,Santa Catarina,South
+285,Rio Negrinho,SC,Santa Catarina,South
+286,Sao Paulo,SP,São Paulo,Southeast
+287,Sao Paulo,SP,São Paulo,Southeast
+288,Varzea Paulista,SP,São Paulo,Southeast
+289,Ibitinga,SP,São Paulo,Southeast
+290,Brasilia,DF,Distrito Federal,Central-West
+291,Marilia,SP,São Paulo,Southeast
+292,Valinhos,SP,São Paulo,Southeast
+293,Guarulhos,SP,São Paulo,Southeast
+294,Sao Paulo,SP,São Paulo,Southeast
+295,Assis,SP,São Paulo,Southeast
+296,Ouro Fino,MG,Minas Gerais,Southeast
+297,Jacutinga,MG,Minas Gerais,Southeast
+298,Pradopolis,SP,São Paulo,Southeast
+299,Itaipulandia,PR,Paraná,South
+300,Gaspar,SC,Santa Catarina,South
+301,Americana,SP,São Paulo,Southeast
+302,Joinville,SC,Santa Catarina,South
+303,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+304,Araquari,SC,Santa Catarina,South
+305,Sao Paulo,SP,São Paulo,Southeast
+306,Sao Paulo,SP,São Paulo,Southeast
+307,Sao Paulo,SP,São Paulo,Southeast
+308,Bocaiuva Do Sul,PR,Paraná,South
+309,Maringa,PR,Paraná,South
+310,Piracicaba,SP,São Paulo,Southeast
+311,Sao Ludgero,SC,Santa Catarina,South
+312,Maringa,PR,Paraná,South
+313,Rio Do Sul,SC,Santa Catarina,South
+314,Sao Paulo,SP,São Paulo,Southeast
+315,Sao Paulo,SP,São Paulo,Southeast
+316,Sao Paulo,SP,São Paulo,Southeast
+317,Penapolis,SP,São Paulo,Southeast
+318,Sao Paulo,SP,São Paulo,Southeast
+319,Sao Paulo,SP,São Paulo,Southeast
+320,Joinville,SC,Santa Catarina,South
+321,Sao Paulo,SP,São Paulo,Southeast
+322,Limeira,SP,São Paulo,Southeast
+323,Sao Carlos,SP,São Paulo,Southeast
+324,Santos,SP,São Paulo,Southeast
+325,Sarandi,PR,Paraná,South
+326,Belo Horizonte,MG,Minas Gerais,Southeast
+327,Sao Paulo,SP,São Paulo,Southeast
+328,Cataguases,MG,Minas Gerais,Southeast
+329,Santana De Parnaiba,SP,São Paulo,Southeast
+330,Nova Iguacu,RJ,Rio de Janeiro,Southeast
+331,Curitiba,PR,Paraná,South
+332,Sp / Sp,SP,São Paulo,Southeast
+333,Fazenda Rio Grande,PR,Paraná,South
+334,Lambari,MG,Minas Gerais,Southeast
+335,Sao Paulo,SP,São Paulo,Southeast
+336,Jaguaruna,SC,Santa Catarina,South
+337,Joinville,SC,Santa Catarina,South
+338,Recife,PE,Pernambuco,Northeast
+339,Barrinha,SP,São Paulo,Southeast
+340,Indaial,SC,Santa Catarina,South
+341,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+342,Vicosa,MG,Minas Gerais,Southeast
+343,Sao Paulo,SP,São Paulo,Southeast
+344,Sao Paulo,SP,São Paulo,Southeast
+345,Arapongas,PR,Paraná,South
+346,Belo Horizonte,MG,Minas Gerais,Southeast
+347,Uba,MG,Minas Gerais,Southeast
+348,Sao Paulo,SP,São Paulo,Southeast
+349,Ibitinga,SP,São Paulo,Southeast
+350,Birigui,SP,São Paulo,Southeast
+351,Sao Paulo,SP,São Paulo,Southeast
+352,Sp,SP,São Paulo,Southeast
+353,Ibitinga,SP,São Paulo,Southeast
+354,Jaguariuna,SP,São Paulo,Southeast
+355,Campinas,SP,São Paulo,Southeast
+356,Catanduva,SP,São Paulo,Southeast
+357,Sao Paulo,SP,São Paulo,Southeast
+358,Sao Paulo,SP,São Paulo,Southeast
+359,Itatiba,SP,São Paulo,Southeast
+360,Jaciara,MT,Mato Grosso,Central-West
+361,Sao Paulo,SP,São Paulo,Southeast
+362,Sao Paulo,SP,São Paulo,Southeast
+363,Sao Paulo,SP,São Paulo,Southeast
+364,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+365,Sao Paulo,SP,São Paulo,Southeast
+366,Venancio Aires,RS,Rio Grande do Sul,South
+367,Curitiba,PR,Paraná,South
+368,Tupa,SP,São Paulo,Southeast
+369,Sao Paulo,SP,São Paulo,Southeast
+370,Maua,SP,São Paulo,Southeast
+371,Limeira,SP,São Paulo,Southeast
+372,Paraiba Do Sul,RJ,Rio de Janeiro,Southeast
+373,Santa Cecilia,SC,Santa Catarina,South
+374,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+375,Guaira,SP,São Paulo,Southeast
+376,Borda Da Mata,MG,Minas Gerais,Southeast
+377,Curitiba,PR,Paraná,South
+378,Porto Ferreira,SP,São Paulo,Southeast
+379,Guarapuava,PR,Paraná,South
+380,Curitiba,PR,Paraná,South
+381,Sao Carlos,SP,São Paulo,Southeast
+382,Laguna,SP,São Paulo,Southeast
+383,Itu,SP,São Paulo,Southeast
+384,Sao Caetano Do Sul,SP,São Paulo,Southeast
+385,Andira-Pr,PR,Paraná,South
+386,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+387,Sao Paulo,SP,São Paulo,Southeast
+388,Santa Barbara D'Oeste,SP,São Paulo,Southeast
+389,Colombo,PR,Paraná,South
+390,Sao Paulo,SP,São Paulo,Southeast
+391,Salto,SP,São Paulo,Southeast
+392,Sete Lagoas,MG,Minas Gerais,Southeast
+393,Sp,SP,São Paulo,Southeast
+394,Osasco,SP,São Paulo,Southeast
+395,Ribeirao Preto,SP,São Paulo,Southeast
+396,Sao Paulo,SP,São Paulo,Southeast
+397,Registro,SP,São Paulo,Southeast
+398,Fortaleza,CE,Ceará,Northeast
+399,Itaquaquecetuba,SP,São Paulo,Southeast
+400,Uberlandia,MG,Minas Gerais,Southeast
+401,Sao Paulo,SP,São Paulo,Southeast
+402,Curitiba,PR,Paraná,South
+403,Bandeirantes,PR,Paraná,South
+404,Belo Horizonte,MG,Minas Gerais,Southeast
+405,Belo Horizonte,MG,Minas Gerais,Southeast
+406,Maringa,PR,Paraná,South
+407,Sao Paulo,SP,São Paulo,Southeast
+408,Cafelandia,SP,São Paulo,Southeast
+409,Porto Ferreira,SP,São Paulo,Southeast
+410,Caxias Do Sul,RS,Rio Grande do Sul,South
+411,Mogi Mirim,SP,São Paulo,Southeast
+412,Dois Corregos,SP,São Paulo,Southeast
+413,Sao Pedro,SP,São Paulo,Southeast
+414,Votorantim,SP,São Paulo,Southeast
+415,Sao Paulo,SP,São Paulo,Southeast
+416,Capivari,SP,São Paulo,Southeast
+417,Itau De Minas,MG,Minas Gerais,Southeast
+418,Niteroi,RJ,Rio de Janeiro,Southeast
+419,Jundiai,SP,São Paulo,Southeast
+420,Mogi Das Cruzes,SP,São Paulo,Southeast
+421,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+422,Brasilia,DF,Distrito Federal,Central-West
+423,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+424,Robeirao Preto,SP,São Paulo,Southeast
+425,Serra Redonda,PB,Paraíba,Northeast
+426,Osasco,SP,São Paulo,Southeast
+427,Jundiai,SP,São Paulo,Southeast
+428,Campinas,SP,São Paulo,Southeast
+429,Curitiba,PR,Paraná,South
+430,Sao Paulo,SP,São Paulo,Southeast
+431,Apucarana,PR,Paraná,South
+432,Cianorte,PR,Paraná,South
+433,Poa,SP,São Paulo,Southeast
+434,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+435,Itauna,MG,Minas Gerais,Southeast
+436,Cotia,SP,São Paulo,Southeast
+437,Igaracu Do Tiete,SP,São Paulo,Southeast
+438,Praia Grande,SP,São Paulo,Southeast
+439,Sao Paulo,SP,São Paulo,Southeast
+440,Brusque,SC,Santa Catarina,South
+441,Sao Paulo,SP,São Paulo,Southeast
+442,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+443,Jaci,SP,São Paulo,Southeast
+444,Sao Paulo,SP,São Paulo,Southeast
+445,Guarulhos,SP,São Paulo,Southeast
+446,Catanduva,SP,São Paulo,Southeast
+447,Curitiba,PR,Paraná,South
+448,Santa Barbara D´Oeste,SP,São Paulo,Southeast
+449,Pedregulho,SP,São Paulo,Southeast
+450,Curitiba,PR,Paraná,South
+451,Apucarana,PR,Paraná,South
+452,Franca,SP,São Paulo,Southeast
+453,Ibitinga,SP,São Paulo,Southeast
+454,Sao Paulo,SP,São Paulo,Southeast
+455,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+456,Sao Paulo,SP,São Paulo,Southeast
+457,Maua,SP,São Paulo,Southeast
+458,Sao Paulo,SP,São Paulo,Southeast
+459,Carapicuiba,SP,São Paulo,Southeast
+460,Praia Grande,SP,São Paulo,Southeast
+461,Sao Paulo,SP,São Paulo,Southeast
+462,Sao Paulo,SP,São Paulo,Southeast
+463,Sao Paulo,SP,São Paulo,Southeast
+464,Belo Horizonte,MG,Minas Gerais,Southeast
+465,Campinas,SP,São Paulo,Southeast
+466,Sao Paulo,SP,São Paulo,Southeast
+467,Belo Horizonte,MG,Minas Gerais,Southeast
+468,Sao Paulo,SP,São Paulo,Southeast
+469,Caxias Do Sul,RS,Rio Grande do Sul,South
+470,Belo Horizonte,SP,São Paulo,Southeast
+471,Belo Horizonte,MG,Minas Gerais,Southeast
+472,Itaporanga,SP,São Paulo,Southeast
+473,Ribeirao Preto,SP,São Paulo,Southeast
+474,Sao Paulo,SP,São Paulo,Southeast
+475,Sao Paulo,SP,São Paulo,Southeast
+476,Sao Jose Do Rio Pret,SP,São Paulo,Southeast
+477,Brasilia,DF,Distrito Federal,Central-West
+478,Sao Paulo,SP,São Paulo,Southeast
+479,Curitiba,SP,São Paulo,Southeast
+480,Curitiba,PR,Paraná,South
+481,Varzea Alegre,CE,Ceará,Northeast
+482,Santa Maria,RS,Rio Grande do Sul,South
+483,Juiz De Fora,MG,Minas Gerais,Southeast
+484,Balneario Camboriu,SC,Santa Catarina,South
+485,Belo Horizonte,MG,Minas Gerais,Southeast
+486,Sao Paulo,SP,São Paulo,Southeast
+487,Porto Ferreira,SP,São Paulo,Southeast
+488,Brasilia,DF,Distrito Federal,Central-West
+489,Formiga,MG,Minas Gerais,Southeast
+490,Santo Andre,SP,São Paulo,Southeast
+491,Jaragua Do Sul,SC,Santa Catarina,South
+492,Sao Caetano Do Sul,SP,São Paulo,Southeast
+493,Maringa,PR,Paraná,South
+494,Sao Paulo,SP,São Paulo,Southeast
+495,Belo Horizonte,MG,Minas Gerais,Southeast
+496,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+497,Porto Alegre,RS,Rio Grande do Sul,South
+498,Brasilia,DF,Distrito Federal,Central-West
+499,Sao Paulo,SP,São Paulo,Southeast
+500,Divinopolis,MG,Minas Gerais,Southeast
+501,Juiz De Fora,MG,Minas Gerais,Southeast
+502,Sao Paulo,SP,São Paulo,Southeast
+503,Sao Paulo,SP,São Paulo,Southeast
+504,Irece,BA,Bahia,Northeast
+505,Sao Paulo,SP,São Paulo,Southeast
+506,Itu,SP,São Paulo,Southeast
+507,Belo Horizonte,MG,Minas Gerais,Southeast
+508,Sao Paulo,SP,São Paulo,Southeast
+509,Tubarao,SC,Santa Catarina,South
+510,Londrina,PR,Paraná,South
+511,Nova Friburgo,RJ,Rio de Janeiro,Southeast
+512,Belo Horizonte,MG,Minas Gerais,Southeast
+513,Santa Maria,RS,Rio Grande do Sul,South
+514,Barueri,SP,São Paulo,Southeast
+515,Belo Horizonte,MG,Minas Gerais,Southeast
+516,Buritama,SP,São Paulo,Southeast
+517,Castro Pires,MG,Minas Gerais,Southeast
+518,Curitiba,PR,Paraná,South
+519,Cachoeiro De Itapemirim,ES,Espírito Santo,Southeast
+520,Mogi Das Cruzes,SP,São Paulo,Southeast
+521,Curitiba,PR,Paraná,South
+522,Sabara,MG,Minas Gerais,Southeast
+523,Ribeirao Preto,SP,São Paulo,Southeast
+524,Londrina,PR,Paraná,South
+525,Macae,RJ,Rio de Janeiro,Southeast
+526,Sao Paulo,SP,São Paulo,Southeast
+527,Ribeirao Preto,SP,São Paulo,Southeast
+528,Sao Paulo,SP,São Paulo,Southeast
+529,Sao Francisco Do Sul,SC,Santa Catarina,South
+530,Uruacu,GO,Goiás,Central-West
+531,Ibitinga,SP,São Paulo,Southeast
+532,Sao Paulo,SP,São Paulo,Southeast
+533,Osasco,SP,São Paulo,Southeast
+534,Jaci,SP,São Paulo,Southeast
+535,Sao Jose Dos Campos,SP,São Paulo,Southeast
+536,Curitiba,PR,Paraná,South
+537,Sinop,MT,Mato Grosso,Central-West
+538,Santo Andre,SP,São Paulo,Southeast
+539,Sao Paulo,SP,São Paulo,Southeast
+540,Sao Paulo,SP,São Paulo,Southeast
+541,Sao Paulo,SP,São Paulo,Southeast
+542,Curitiba,PR,Paraná,South
+543,Belo Horizonte,MG,Minas Gerais,Southeast
+544,Sao Paulo,SP,São Paulo,Southeast
+545,Sao Paulo,SP,São Paulo,Southeast
+546,Sao Paulo,SP,São Paulo,Southeast
+547,Campinas,SP,São Paulo,Southeast
+548,Porto Alegre,RS,Rio Grande do Sul,South
+549,Presidente Prudente,SP,São Paulo,Southeast
+550,Sao Jose Dos Campos,SP,São Paulo,Southeast
+551,Jaragua Do Sul,SC,Santa Catarina,South
+552,Ribeirao Preto,SP,São Paulo,Southeast
+553,Blumenau,SC,Santa Catarina,South
+554,Sao Jose,SC,Santa Catarina,South
+555,Sao Paulo,SP,São Paulo,Southeast
+556,Afonso Claudio,ES,Espírito Santo,Southeast
+557,Cachoeiro De Itapemirim,ES,Espírito Santo,Southeast
+558,Sao Paulo,SP,São Paulo,Southeast
+559,Barueri,SP,São Paulo,Southeast
+560,Sao Paulo,SP,São Paulo,Southeast
+561,Volta Redonda,RJ,Rio de Janeiro,Southeast
+562,Joinville,SC,Santa Catarina,South
+563,Londrina,PR,Paraná,South
+564,Salto,SP,São Paulo,Southeast
+565,Auriflama,SP,São Paulo,Southeast
+566,Scao Jose Do Rio Pardo,SP,São Paulo,Southeast
+567,Parai,RS,Rio Grande do Sul,South
+568,Aruja,SP,São Paulo,Southeast
+569,Santa Barbara D'Oeste,SP,São Paulo,Southeast
+570,Sao Paulo,SP,São Paulo,Southeast
+571,Niteroi,RJ,Rio de Janeiro,Southeast
+572,Guarulhos,SP,São Paulo,Southeast
+573,Uba,MG,Minas Gerais,Southeast
+574,Sao Paulo,SP,São Paulo,Southeast
+575,Sao Paulo,SP,São Paulo,Southeast
+576,Americana,SP,São Paulo,Southeast
+577,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+578,Araras,SP,São Paulo,Southeast
+579,Goiania,GO,Goiás,Central-West
+580,Cachoeiro De Itapemirim,ES,Espírito Santo,Southeast
+581,Sao Paulo,SP,São Paulo,Southeast
+582,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+583,Taboao Da Serra,SP,São Paulo,Southeast
+584,Manaus,AM,Amazonas,North
+585,Praia Grande,SP,São Paulo,Southeast
+586,Foz Do Iguacu,PR,Paraná,South
+587,Catanduva,SP,São Paulo,Southeast
+588,Lages,SC,Santa Catarina,South
+589,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+590,Sao Paulo,SP,São Paulo,Southeast
+591,Uruguaiana,RS,Rio Grande do Sul,South
+592,Carmo Do Cajuru,MG,Minas Gerais,Southeast
+593,Piracicaba,SP,São Paulo,Southeast
+594,Vargem Grande Do Sul,SP,São Paulo,Southeast
+595,Maringa,PR,Paraná,South
+596,Santo Andre,SP,São Paulo,Southeast
+597,Curitiba,PR,Paraná,South
+598,Maringa,PR,Paraná,South
+599,Porto Velho,RO,Rondônia,North
+600,Porto Alegre,RS,Rio Grande do Sul,South
+601,Guarulhos,SP,São Paulo,Southeast
+602,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+603,Cotia,SP,São Paulo,Southeast
+604,Londrina,PR,Paraná,South
+605,Bento Goncalves,RS,Rio Grande do Sul,South
+606,Blumenau,SC,Santa Catarina,South
+607,Joinville,SC,Santa Catarina,South
+608,Vila Velha,ES,Espírito Santo,Southeast
+609,Condor,RS,Rio Grande do Sul,South
+610,Penapolis,SP,São Paulo,Southeast
+611,Sao Jose Dos Campos,SP,São Paulo,Southeast
+612,Campinas,SP,São Paulo,Southeast
+613,Sao Paulo,SP,São Paulo,Southeast
+614,Gaspar,SC,Santa Catarina,South
+615,Campinas,SP,São Paulo,Southeast
+616,Cascavael,PR,Paraná,South
+617,Capivari,SP,São Paulo,Southeast
+618,Salto,SP,São Paulo,Southeast
+619,Franca,SP,São Paulo,Southeast
+620,Curitiba,PR,Paraná,South
+621,Congonhas,MG,Minas Gerais,Southeast
+622,Campo Bom,RS,Rio Grande do Sul,South
+623,Maua,SP,São Paulo,Southeast
+624,Sao Paulo,SP,São Paulo,Southeast
+625,Canoas,RS,Rio Grande do Sul,South
+626,Ribeirao Preto,SP,São Paulo,Southeast
+627,Araraquara,SP,São Paulo,Southeast
+628,Sao Leopoldo,RS,Rio Grande do Sul,South
+629,Sombrio,SC,Santa Catarina,South
+630,Londrina,PR,Paraná,South
+631,Sao Caetano Do Sul,SP,São Paulo,Southeast
+632,Sao Paulo,SP,São Paulo,Southeast
+633,Sao Caetano Do Sul,SP,São Paulo,Southeast
+634,Osasco,SP,São Paulo,Southeast
+635,Santos,SP,São Paulo,Southeast
+636,Toledo,PR,Paraná,South
+637,Campinas,SP,São Paulo,Southeast
+638,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+639,Dracena,SP,São Paulo,Southeast
+640,Goiania,GO,Goiás,Central-West
+641,Sao Paulo,SP,São Paulo,Southeast
+642,Sorocaba,SP,São Paulo,Southeast
+643,Sao Jose Dos Pinhais,PR,Paraná,South
+644,Ampere,PR,Paraná,South
+645,Sao Paulo,SP,São Paulo,Southeast
+646,Limeira,SP,São Paulo,Southeast
+647,Mucambo,CE,Ceará,Northeast
+648,Curitiba,PR,Paraná,South
+649,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+650,Sao Paulo,SP,São Paulo,Southeast
+651,Itaquaquecetuba,SP,São Paulo,Southeast
+652,Sao Jose Dos Campos,SP,São Paulo,Southeast
+653,Sao Paulo,SP,São Paulo,Southeast
+654,Londrina,PR,Paraná,South
+655,Sao Paulo,SP,São Paulo,Southeast
+656,Marilia,SP,São Paulo,Southeast
+657,Carapicuiba,SP,São Paulo,Southeast
+658,Campinas,SP,São Paulo,Southeast
+659,Ibitinga,SP,São Paulo,Southeast
+660,Blumenau,SC,Santa Catarina,South
+661,Cerqueira Cesar,SP,São Paulo,Southeast
+662,Rio De Janeiro,RN,Rio Grande do Norte,Northeast
+663,Sao Paulo,SP,São Paulo,Southeast
+664,Bauru,SP,São Paulo,Southeast
+665,Sao Paulo,SP,São Paulo,Southeast
+666,Santo Andre,SP,São Paulo,Southeast
+667,Rolante,RS,Rio Grande do Sul,South
+668,Curitiba,PR,Paraná,South
+669,Salvador,BA,Bahia,Northeast
+670,Barretos,SP,São Paulo,Southeast
+671,Goiania,GO,Goiás,Central-West
+672,Sao Paulo,SP,São Paulo,Southeast
+673,Sao Paulo,SP,São Paulo,Southeast
+674,Goiania,GO,Goiás,Central-West
+675,Sao Paulo,SP,São Paulo,Southeast
+676,Uniao Da Vitoria,PR,Paraná,South
+677,Sao Paulo,SP,São Paulo,Southeast
+678,Sao Paulo,SP,São Paulo,Southeast
+679,Belo Horizonte,MG,Minas Gerais,Southeast
+680,Aguas Claras Df,SP,São Paulo,Southeast
+681,Osasco,SP,São Paulo,Southeast
+682,Campinas,SP,São Paulo,Southeast
+683,Goiania,GO,Goiás,Central-West
+684,Sao Paulo,SP,São Paulo,Southeast
+685,Limeira,SP,São Paulo,Southeast
+686,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+687,Belo Horizonte,MG,Minas Gerais,Southeast
+688,Ibitinga,SP,São Paulo,Southeast
+689,Santo Andre,SP,São Paulo,Southeast
+690,Ibitinga,SP,São Paulo,Southeast
+691,Porto Belo,SC,Santa Catarina,South
+692,Maringa,PR,Paraná,South
+693,Sao Paulo,SP,São Paulo,Southeast
+694,Barueri,SP,São Paulo,Southeast
+695,Sao Paulo,SP,São Paulo,Southeast
+696,Osasco,SP,São Paulo,Southeast
+697,Londrina,PR,Paraná,South
+698,Mandirituba,PR,Paraná,South
+699,Sao Joao De Meriti,RJ,Rio de Janeiro,Southeast
+700,Jaragua Do Sul,SC,Santa Catarina,South
+701,Gama,DF,Distrito Federal,Central-West
+702,Colombo,PR,Paraná,South
+703,Sao Paulo,SP,São Paulo,Southeast
+704,Cosmopolis,SP,São Paulo,Southeast
+705,Curitiba,PR,Paraná,South
+706,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+707,Campinas,SP,São Paulo,Southeast
+708,Joinville,SC,Santa Catarina,South
+709,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+710,Contagem,MG,Minas Gerais,Southeast
+711,Itapevi,SP,São Paulo,Southeast
+712,Campinas,SP,São Paulo,Southeast
+713,Ibitinga,SP,São Paulo,Southeast
+714,Sorocaba,SP,São Paulo,Southeast
+715,Montes Claros,MG,Minas Gerais,Southeast
+716,Sao Paulo,SP,São Paulo,Southeast
+717,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+718,Sao Paulo,SP,São Paulo,Southeast
+719,Jacarei,SP,São Paulo,Southeast
+720,Nova Trento,SC,Santa Catarina,South
+721,Sertanopolis,SP,São Paulo,Southeast
+722,Campo Limpo Paulista,SP,São Paulo,Southeast
+723,Sao Paulo,SP,São Paulo,Southeast
+724,Fortaleza,CE,Ceará,Northeast
+725,Ponte Nova,MG,Minas Gerais,Southeast
+726,Curitiba,PR,Paraná,South
+727,Sao Paulo,SP,São Paulo,Southeast
+728,Pouso Alegre,MG,Minas Gerais,Southeast
+729,Jales,SP,São Paulo,Southeast
+730,Sao Paulo,SP,São Paulo,Southeast
+731,Sao Paulo,SP,São Paulo,Southeast
+732,Sorocaba,SP,São Paulo,Southeast
+733,Sao Paulo,SP,São Paulo,Southeast
+734,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+735,Curitiba,PR,Paraná,South
+736,Barbacena,MG,Minas Gerais,Southeast
+737,Sao Paulo,SP,São Paulo,Southeast
+738,Curitiba,PR,Paraná,South
+739,Terra Boa,PR,Paraná,South
+740,Sao Paulo,SP,São Paulo,Southeast
+741,Curitiba,PR,Paraná,South
+742,Joinville,SC,Santa Catarina,South
+743,Fazenda Rio Grande,PR,Paraná,South
+744,Itapecerica Da Serra,SP,São Paulo,Southeast
+745,Londrina,PR,Paraná,South
+746,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+747,Sao Paulo,SP,São Paulo,Southeast
+748,Caxias Do Sul,RS,Rio Grande do Sul,South
+749,Holambra,SP,São Paulo,Southeast
+750,Araraquara,SP,São Paulo,Southeast
+751,Governador Valadares,MG,Minas Gerais,Southeast
+752,Curitiba,PR,Paraná,South
+753,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+754,Osvaldo Cruz,SP,São Paulo,Southeast
+755,Guanhaes,MG,Minas Gerais,Southeast
+756,Belo Horizonte,MG,Minas Gerais,Southeast
+757,Belo Horizonte,MG,Minas Gerais,Southeast
+758,Juiz De Fora,MG,Minas Gerais,Southeast
+759,Caieiras,SP,São Paulo,Southeast
+760,Vitoria,ES,Espírito Santo,Southeast
+761,Tatui,SP,São Paulo,Southeast
+762,Sao Paulo,SP,São Paulo,Southeast
+763,Santo Andre,SP,São Paulo,Southeast
+764,Recife,PE,Pernambuco,Northeast
+765,Francisco Beltrao,PR,Paraná,South
+766,Ribeirao Pires,SP,São Paulo,Southeast
+767,Santos,SP,São Paulo,Southeast
+768,Campinas,SP,São Paulo,Southeast
+769,Brasilia Df,DF,Distrito Federal,Central-West
+770,Imigrante,RS,Rio Grande do Sul,South
+771,Sao Paulo,SP,São Paulo,Southeast
+772,Belo Horizonte,MG,Minas Gerais,Southeast
+773,Santo Andre,SP,São Paulo,Southeast
+774,Santo Andre,SP,São Paulo,Southeast
+775,Sao Paulo,SP,São Paulo,Southeast
+776,Natal,RN,Rio Grande do Norte,Northeast
+777,Araxa,MG,Minas Gerais,Southeast
+778,Domingos Martins,ES,Espírito Santo,Southeast
+779,Guaruja,SP,São Paulo,Southeast
+780,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+781,Bahia,BA,Bahia,Northeast
+782,Ibitinga,SP,São Paulo,Southeast
+783,Americana,SP,São Paulo,Southeast
+784,Maringa,PR,Paraná,South
+785,Sao Paulo,SP,São Paulo,Southeast
+786,Brasilia,DF,Distrito Federal,Central-West
+787,Goiania,GO,Goiás,Central-West
+788,Santo Andre,SP,São Paulo,Southeast
+789,Caxias Do Sul,RS,Rio Grande do Sul,South
+790,Pinhalzinho,SP,São Paulo,Southeast
+791,Sao Paulo,SP,São Paulo,Southeast
+792,Coronel Fabriciano,MG,Minas Gerais,Southeast
+793,Sao Paulo,SP,São Paulo,Southeast
+794,Ribeirao Preto,SP,São Paulo,Southeast
+795,Sao Jose Do Rio Pardo,SP,São Paulo,Southeast
+796,Brasilia,DF,Distrito Federal,Central-West
+797,Sao Paulo,SP,São Paulo,Southeast
+798,Ribeirao Pires,SP,São Paulo,Southeast
+799,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+800,Campinas,SP,São Paulo,Southeast
+801,Sao Paulo,SP,São Paulo,Southeast
+802,Barro Alto,BA,Bahia,Northeast
+803,Porto Alegre,RS,Rio Grande do Sul,South
+804,Mogi Das Cruzes,SP,São Paulo,Southeast
+805,Maringa,PR,Paraná,South
+806,Varginha,MG,Minas Gerais,Southeast
+807,Brasilia,DF,Distrito Federal,Central-West
+808,Carapicuiba,SP,São Paulo,Southeast
+809,Brasilia,DF,Distrito Federal,Central-West
+810,Votuporanga,SP,São Paulo,Southeast
+811,Marilia,SP,São Paulo,Southeast
+812,Cotia,SP,São Paulo,Southeast
+813,Sao Paulo,SP,São Paulo,Southeast
+814,Santa Rosa,RS,Rio Grande do Sul,South
+815,Carazinho,RS,Rio Grande do Sul,South
+816,Canoas,RS,Rio Grande do Sul,South
+817,Sao Paulo,SP,São Paulo,Southeast
+818,Araras,SP,São Paulo,Southeast
+819,Presidente Prudente,SP,São Paulo,Southeast
+820,Resende,RJ,Rio de Janeiro,Southeast
+821,Luiz Alves,SC,Santa Catarina,South
+822,Sorocaba,SP,São Paulo,Southeast
+823,Paulinia,SP,São Paulo,Southeast
+824,Catanduva,SP,São Paulo,Southeast
+825,Porto Alegre,RS,Rio Grande do Sul,South
+826,Guarulhos,SP,São Paulo,Southeast
+827,Sao Roque,SP,São Paulo,Southeast
+828,Cordeiropolis,SP,São Paulo,Southeast
+829,Sorocaba,SP,São Paulo,Southeast
+830,Pinhais,PR,Paraná,South
+831,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+832,Japira,PR,Paraná,South
+833,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+834,Claudio,MG,Minas Gerais,Southeast
+835,Piracicaba,SP,São Paulo,Southeast
+836,Diadema,SP,São Paulo,Southeast
+837,Pedro Leopoldo,MG,Minas Gerais,Southeast
+838,Teresina,PI,Piauí,Northeast
+839,Dores De Campos,MG,Minas Gerais,Southeast
+840,Piracicaba,SP,São Paulo,Southeast
+841,Sao Paulo,SP,São Paulo,Southeast
+842,Canoas,RS,Rio Grande do Sul,South
+843,Mogi Mirim,SP,São Paulo,Southeast
+844,Volta Redonda,SP,São Paulo,Southeast
+845,Taio,SC,Santa Catarina,South
+846,Jau,SP,São Paulo,Southeast
+847,Guariba,SP,São Paulo,Southeast
+848,Porto Alegre,RS,Rio Grande do Sul,South
+849,Osvaldo Cruz,SP,São Paulo,Southeast
+850,Sao Paulo,SP,São Paulo,Southeast
+851,Oliveira,MG,Minas Gerais,Southeast
+852,Porto Alegre,RS,Rio Grande do Sul,South
+853,Curitiba,PR,Paraná,South
+854,Barra Mansa,RJ,Rio de Janeiro,Southeast
+855,Juiz De Fora,MG,Minas Gerais,Southeast
+856,Blumenau,SC,Santa Catarina,South
+857,Sao Paulo,SP,São Paulo,Southeast
+858,Taubate,SP,São Paulo,Southeast
+859,Sorocaba,SP,São Paulo,Southeast
+860,Diadema,SP,São Paulo,Southeast
+861,Sao Paulo,SP,São Paulo,Southeast
+862,Porto Alegre,RS,Rio Grande do Sul,South
+863,Sao Paulo,SP,São Paulo,Southeast
+864,Sao Paulo,SP,São Paulo,Southeast
+865,Sao Paulo,SP,São Paulo,Southeast
+866,Formiga,MG,Minas Gerais,Southeast
+867,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+868,Brasilia,DF,Distrito Federal,Central-West
+869,Pedreira,SP,São Paulo,Southeast
+870,Sao Paulo,SP,São Paulo,Southeast
+871,Ibitinga,SP,São Paulo,Southeast
+872,Marilia,SP,São Paulo,Southeast
+873,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+874,Irati,PR,Paraná,South
+875,Lagoa Da Prata,MG,Minas Gerais,Southeast
+876,Arraial D'Ajuda (Porto Seguro),BA,Bahia,Northeast
+877,Canoinhas,SC,Santa Catarina,South
+878,Ibitinga,SP,São Paulo,Southeast
+879,Ribeirao Preto,SP,São Paulo,Southeast
+880,Aracaju,SE,Sergipe,Northeast
+881,Vendas@Creditparts.Com.Br,PR,Paraná,South
+882,Limeira,SP,São Paulo,Southeast
+883,Taboao Da Serra,SP,São Paulo,Southeast
+884,Mogi Das Cruzes,SP,São Paulo,Southeast
+885,Santo Andre,SP,São Paulo,Southeast
+886,Sao Carlos,SP,São Paulo,Southeast
+887,Divinopolis,MG,Minas Gerais,Southeast
+888,Assis,SP,São Paulo,Southeast
+889,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+890,Sao Paulo,SP,São Paulo,Southeast
+891,Campo Limpo Paulista,SP,São Paulo,Southeast
+892,Sao Paulo,SP,São Paulo,Southeast
+893,Marilia,SP,São Paulo,Southeast
+894,Sao Paulo,SP,São Paulo,Southeast
+895,Carapicuiba,SP,São Paulo,Southeast
+896,Maringa,PR,Paraná,South
+897,Atibaia,SP,São Paulo,Southeast
+898,Niteroi,RJ,Rio de Janeiro,Southeast
+899,Fernandopolis,SP,São Paulo,Southeast
+900,Ibitinga,SP,São Paulo,Southeast
+901,Ribeirao Preto,SP,São Paulo,Southeast
+902,Toledo,PR,Paraná,South
+903,Fazenda Rio Grande,PR,Paraná,South
+904,Tabatinga,SP,São Paulo,Southeast
+905,Juiz De Fora,MG,Minas Gerais,Southeast
+906,Belo Horizonte,MG,Minas Gerais,Southeast
+907,Entre Rios Do Oeste,PR,Paraná,South
+908,Jau,SP,São Paulo,Southeast
+909,Embu Das Artes,SP,São Paulo,Southeast
+910,Sao Paulo,SP,São Paulo,Southeast
+911,Cornelio Procopio,PR,Paraná,South
+912,Porto Alegre,RS,Rio Grande do Sul,South
+913,Curitiba,PR,Paraná,South
+914,Itapui,SP,São Paulo,Southeast
+915,Valinhos,SP,São Paulo,Southeast
+916,Sao Paulo,SP,São Paulo,Southeast
+917,Colombo,PR,Paraná,South
+918,Sao Paulo,SP,São Paulo,Southeast
+919,Betim,MG,Minas Gerais,Southeast
+920,Sao Joao De Meriti,RJ,Rio de Janeiro,Southeast
+921,Suzano,SP,São Paulo,Southeast
+922,Belo Horizonte,MG,Minas Gerais,Southeast
+923,Sao Paulo,SP,São Paulo,Southeast
+924,Portoferreira,SP,São Paulo,Southeast
+925,Tres Coracoes,MG,Minas Gerais,Southeast
+926,Ribeirao Preto,SP,São Paulo,Southeast
+927,Guaruja,SP,São Paulo,Southeast
+928,Jaboticabal,SP,São Paulo,Southeast
+929,Sao Jose Dos Campos,SP,São Paulo,Southeast
+930,Sao Paulo,SP,São Paulo,Southeast
+931,Jacarei,SP,São Paulo,Southeast
+932,Cachoeirinha,RS,Rio Grande do Sul,South
+933,Sao Paulo,SP,São Paulo,Southeast
+934,Sao Paulo,SP,São Paulo,Southeast
+935,Sao Paulo,SP,São Paulo,Southeast
+936,Embu Das Artes,SP,São Paulo,Southeast
+937,Sao Paulo,SP,São Paulo,Southeast
+938,Taboao Da Serra,SP,São Paulo,Southeast
+939,Belo Horizonte,MG,Minas Gerais,Southeast
+940,Sao Paulo,SP,São Paulo,Southeast
+941,Ronda Alta,RS,Rio Grande do Sul,South
+942,Feira De Santana,BA,Bahia,Northeast
+943,Maringa,PR,Paraná,South
+944,Santos,SP,São Paulo,Southeast
+945,Sao Paulo,SP,São Paulo,Southeast
+946,Itaquaquecetuba,SP,São Paulo,Southeast
+947,Pocos De Caldas,MG,Minas Gerais,Southeast
+948,Santo Andre,SP,São Paulo,Southeast
+949,Sao Paulo,SP,São Paulo,Southeast
+950,Sao Caetano Do Sul,SP,São Paulo,Southeast
+951,Jaci,SP,São Paulo,Southeast
+952,Claudio,MG,Minas Gerais,Southeast
+953,Vila Velha,ES,Espírito Santo,Southeast
+954,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+955,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+956,Curitiba,PR,Paraná,South
+957,Marilia,SP,São Paulo,Southeast
+958,Campo Grande,MS,Mato Grosso do Sul,Central-West
+959,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+960,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+961,Conchal,SP,São Paulo,Southeast
+962,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+963,Rio Do Oeste,SC,Santa Catarina,South
+964,Braganca Paulista,SP,São Paulo,Southeast
+965,Belo Horizonte,MG,Minas Gerais,Southeast
+966,Rio Grande,RS,Rio Grande do Sul,South
+967,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+968,Cascavel,PR,Paraná,South
+969,Dois Corregos,SP,São Paulo,Southeast
+970,Santos,SP,São Paulo,Southeast
+971,Cascavel,PR,Paraná,South
+972,Sao Paulo,SP,São Paulo,Southeast
+973,Campinas,SP,São Paulo,Southeast
+974,Parnamirim,RN,Rio Grande do Norte,Northeast
+975,Barueri,SP,São Paulo,Southeast
+976,Guarulhos,SP,São Paulo,Southeast
+977,Garca,SP,São Paulo,Southeast
+978,Tupa,SP,São Paulo,Southeast
+979,Sao Paulo,SP,São Paulo,Southeast
+980,Sao Roque,SP,São Paulo,Southeast
+981,Maringa,PR,Paraná,South
+982,Monte Alegre Do Sul,SP,São Paulo,Southeast
+983,Sao Carlos,SP,São Paulo,Southeast
+984,Pinhais,PR,Paraná,South
+985,Itajai,SP,São Paulo,Southeast
+986,Osasco,SP,São Paulo,Southeast
+987,Novo Hamburgo,RS,Rio Grande do Sul,South
+988,Sao Paulo,SP,São Paulo,Southeast
+989,Curitiba,PR,Paraná,South
+990,California,PR,Paraná,South
+991,Echapora,SP,São Paulo,Southeast
+992,Penapolis,SP,São Paulo,Southeast
+993,Triunfo,RS,Rio Grande do Sul,South
+994,Cascavel,PR,Paraná,South
+995,Lauro De Freitas,BA,Bahia,Northeast
+996,Sao Paulo,SP,São Paulo,Southeast
+997,Itapetininga,SP,São Paulo,Southeast
+998,Santo Andre,SP,São Paulo,Southeast
+999,Jundiai,SP,São Paulo,Southeast
+1000,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1001,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1002,Sao Paulo,SP,São Paulo,Southeast
+1003,Belo Horizonte,MG,Minas Gerais,Southeast
+1004,Indaiatuba,SP,São Paulo,Southeast
+1005,Ibitinga,SP,São Paulo,Southeast
+1006,Pedreira,SP,São Paulo,Southeast
+1007,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1008,Belo Horizonte,MG,Minas Gerais,Southeast
+1009,Sorocaba,SP,São Paulo,Southeast
+1010,Curitiba,PR,Paraná,South
+1011,Sao Pauo,SP,São Paulo,Southeast
+1012,Serra,ES,Espírito Santo,Southeast
+1013,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1014,Foz Do Iguacu,PR,Paraná,South
+1015,Santa Barbara D'Oeste,SP,São Paulo,Southeast
+1016,Belo Horizonte,MG,Minas Gerais,Southeast
+1017,Florianopolis,SC,Santa Catarina,South
+1018,Contagem,MG,Minas Gerais,Southeast
+1019,Limeira,SP,São Paulo,Southeast
+1020,Guarulhos,SP,São Paulo,Southeast
+1021,Sao Jose Dos Pinhais,PR,Paraná,South
+1022,Curitiba,PR,Paraná,South
+1023,Morrinhos,GO,Goiás,Central-West
+1024,Sao Paulo,SP,São Paulo,Southeast
+1025,Joinville,SC,Santa Catarina,South
+1026,Sao Joao Del Rei,MG,Minas Gerais,Southeast
+1027,Bauru,SP,São Paulo,Southeast
+1028,Tabatinga,SP,São Paulo,Southeast
+1029,Sao Paulo,SP,São Paulo,Southeast
+1030,Sao Paulo,SP,São Paulo,Southeast
+1031,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1032,Osasco,SP,São Paulo,Southeast
+1033,Belo Horizonte,MG,Minas Gerais,Southeast
+1034,Campinas,SP,São Paulo,Southeast
+1035,Brasilia,DF,Distrito Federal,Central-West
+1036,Taubate,SP,São Paulo,Southeast
+1037,Sao Paulo,SP,São Paulo,Southeast
+1038,Sao Paulo,SP,São Paulo,Southeast
+1039,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1040,Palhoca,SC,Santa Catarina,South
+1041,Guarulhos,SP,São Paulo,Southeast
+1042,Sorocaba,SP,São Paulo,Southeast
+1043,Sao Paulo,SP,São Paulo,Southeast
+1044,Sao Paulo,SP,São Paulo,Southeast
+1045,Chapeco,SP,São Paulo,Southeast
+1046,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1047,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1048,Nova Petropolis,RS,Rio Grande do Sul,South
+1049,Goiania,GO,Goiás,Central-West
+1050,Fortaleza,CE,Ceará,Northeast
+1051,Palhoca,SC,Santa Catarina,South
+1052,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1053,Santa Rosa,RS,Rio Grande do Sul,South
+1054,Ribeirao Preto,SP,São Paulo,Southeast
+1055,Sao Bento Do Sul,SC,Santa Catarina,South
+1056,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+1057,Navegantes,SC,Santa Catarina,South
+1058,Capivari,SP,São Paulo,Southeast
+1059,Bertioga,SP,São Paulo,Southeast
+1060,Montes Claros,MG,Minas Gerais,Southeast
+1061,Porto Alegre,RS,Rio Grande do Sul,South
+1062,Caxias Do Sul,RS,Rio Grande do Sul,South
+1063,Sao Paulo,SP,São Paulo,Southeast
+1064,Rio Claro,SP,São Paulo,Southeast
+1065,Colombo,PR,Paraná,South
+1066,Conselheiro Lafaiete,MG,Minas Gerais,Southeast
+1067,Limeira,SP,São Paulo,Southeast
+1068,Contagem,MG,Minas Gerais,Southeast
+1069,Curitiba,PR,Paraná,South
+1070,Mogi Das Cruses,SP,São Paulo,Southeast
+1071,Presidente Prudente,SP,São Paulo,Southeast
+1072,Uberlandia,MG,Minas Gerais,Southeast
+1073,Campinas,SP,São Paulo,Southeast
+1074,Praia Grande,SP,São Paulo,Southeast
+1075,Maringa,PR,Paraná,South
+1076,Curitiba,PR,Paraná,South
+1077,Sao Paulo,SP,São Paulo,Southeast
+1078,Caxias Do Sul,RS,Rio Grande do Sul,South
+1079,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1080,Sao Paulo,SP,São Paulo,Southeast
+1081,Sao Paulo,SP,São Paulo,Southeast
+1082,Londrina,PR,Paraná,South
+1083,Americana,SP,São Paulo,Southeast
+1084,Campinas,SP,São Paulo,Southeast
+1085,Monteiro Lobato,SP,São Paulo,Southeast
+1086,Salto,SP,São Paulo,Southeast
+1087,Treze Tilias,SC,Santa Catarina,South
+1088,Petropolis,RJ,Rio de Janeiro,Southeast
+1089,Assis,SP,São Paulo,Southeast
+1090,Joinville,SC,Santa Catarina,South
+1091,Jundiai,SP,São Paulo,Southeast
+1092,Guarulhos,SP,São Paulo,Southeast
+1093,Ibitinga,SP,São Paulo,Southeast
+1094,Sao Paulo,SP,São Paulo,Southeast
+1095,Sao Paulo,SP,São Paulo,Southeast
+1096,Paranavai,PR,Paraná,South
+1097,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1098,Borda Da Mata,MG,Minas Gerais,Southeast
+1099,Florianopolis,SC,Santa Catarina,South
+1100,Petropolis,RJ,Rio de Janeiro,Southeast
+1101,Umuarama,PR,Paraná,South
+1102,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1103,Presidente Prudente,SP,São Paulo,Southeast
+1104,Sao Paulo,SP,São Paulo,Southeast
+1105,Sorocaba,SP,São Paulo,Southeast
+1106,Joao Pinheiro,MG,Minas Gerais,Southeast
+1107,Uberlandia,MG,Minas Gerais,Southeast
+1108,Campo Do Meio,MG,Minas Gerais,Southeast
+1109,Coronel Fabriciano,MG,Minas Gerais,Southeast
+1110,Sao Paulo,SP,São Paulo,Southeast
+1111,Nilopolis,RJ,Rio de Janeiro,Southeast
+1112,Sao Jose,SC,Santa Catarina,South
+1113,Sao Paulo,SP,São Paulo,Southeast
+1114,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1115,Varginha,MG,Minas Gerais,Southeast
+1116,Sao Paulo,SP,São Paulo,Southeast
+1117,Cotia,SP,São Paulo,Southeast
+1118,Sao Paulo,SP,São Paulo,Southeast
+1119,Pinhais,PR,Paraná,South
+1120,Patos De Minas,MG,Minas Gerais,Southeast
+1121,Sao Paulo,SP,São Paulo,Southeast
+1122,Atibaia,SP,São Paulo,Southeast
+1123,Sao Paulo,SP,São Paulo,Southeast
+1124,Sao Paulo,SP,São Paulo,Southeast
+1125,Assis,SP,São Paulo,Southeast
+1126,Birigui,SP,São Paulo,Southeast
+1127,Sao Paulo,SP,São Paulo,Southeast
+1128,Santana De Parnaiba,SP,São Paulo,Southeast
+1129,Sao Paulo,SP,São Paulo,Southeast
+1130,Vitoria,ES,Espírito Santo,Southeast
+1131,Pompeia,SP,São Paulo,Southeast
+1132,Santa Barbara D´Oeste,SP,São Paulo,Southeast
+1133,Florianopolis,SC,Santa Catarina,South
+1134,Apucarana,PR,Paraná,South
+1135,Sao Paulo,SP,São Paulo,Southeast
+1136,Sao Paulo,SP,São Paulo,Southeast
+1137,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1138,Santa Terezinha De Itaipu,PR,Paraná,South
+1139,Chapeco,SC,Santa Catarina,South
+1140,Balenario Camboriu,SC,Santa Catarina,South
+1141,Porto Alegre,RS,Rio Grande do Sul,South
+1142,Vargem Grande Do Sul,SP,São Paulo,Southeast
+1143,Ribeirao Preto,SP,São Paulo,Southeast
+1144,Ribeirao Preto,SP,São Paulo,Southeast
+1145,Sao Paulo,SP,São Paulo,Southeast
+1146,Marilia,SP,São Paulo,Southeast
+1147,Sao Paulo,SP,São Paulo,Southeast
+1148,Sao Paulo,SP,São Paulo,Southeast
+1149,Arapongas,PR,Paraná,South
+1150,Sao Paulo,SP,São Paulo,Southeast
+1151,Viana,ES,Espírito Santo,Southeast
+1152,Ribeirao Preto,SP,São Paulo,Southeast
+1153,Sao Paulo,SP,São Paulo,Southeast
+1154,Maringa,PR,Paraná,South
+1155,Canoas,RS,Rio Grande do Sul,South
+1156,Sao Paulo,SP,São Paulo,Southeast
+1157,Ibitinga,SP,São Paulo,Southeast
+1158,Pinhais/Pr,PR,Paraná,South
+1159,Osasco,SP,São Paulo,Southeast
+1160,Sao Paulo,SP,São Paulo,Southeast
+1161,Campinas,SP,São Paulo,Southeast
+1162,Campinas,SP,São Paulo,Southeast
+1163,Brusque,SC,Santa Catarina,South
+1164,Carapicuiba,SP,São Paulo,Southeast
+1165,Fernando Prestes,SP,São Paulo,Southeast
+1166,Sao Paulo,SP,São Paulo,Southeast
+1167,Novo Hamburgo,RS,Rio Grande do Sul,South
+1168,Curitiba,PR,Paraná,South
+1169,Itu,SP,São Paulo,Southeast
+1170,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1171,Varginha,MG,Minas Gerais,Southeast
+1172,Osasco,SP,São Paulo,Southeast
+1173,Araraquara,SP,São Paulo,Southeast
+1174,Guarulhos,SP,São Paulo,Southeast
+1175,Serra,ES,Espírito Santo,Southeast
+1176,Petropolis,RJ,Rio de Janeiro,Southeast
+1177,Sao Paulo,SP,São Paulo,Southeast
+1178,Treze Tilias,SC,Santa Catarina,South
+1179,Claudio,MG,Minas Gerais,Southeast
+1180,Sao Paulo,SP,São Paulo,Southeast
+1181,Sao Paulo,SP,São Paulo,Southeast
+1182,Salto,SP,São Paulo,Southeast
+1183,Santo Andre,SP,São Paulo,Southeast
+1184,Sao Paulo,SP,São Paulo,Southeast
+1185,Curitiba,PR,Paraná,South
+1186,Ibitinga,SP,São Paulo,Southeast
+1187,Sao Paulo,SP,São Paulo,Southeast
+1188,Jundiai,SP,São Paulo,Southeast
+1189,Sao Paulo,SP,São Paulo,Southeast
+1190,Farroupilha,RS,Rio Grande do Sul,South
+1191,Sao Paulo,SP,São Paulo,Southeast
+1192,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1193,Jundiai,SP,São Paulo,Southeast
+1194,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1195,Patos De Minas,MG,Minas Gerais,Southeast
+1196,Sao Paulo,SP,São Paulo,Southeast
+1197,Sao Jose Do Rio Pardo,SP,São Paulo,Southeast
+1198,Sao Paulo,SP,São Paulo,Southeast
+1199,Itaborai,RJ,Rio de Janeiro,Southeast
+1200,Ibitinga,SP,São Paulo,Southeast
+1201,Ribeirao Preto,SP,São Paulo,Southeast
+1202,Sao Paulo,SP,São Paulo,Southeast
+1203,Joinville,SC,Santa Catarina,South
+1204,Sorocaba,SP,São Paulo,Southeast
+1205,Presidente Bernardes,SP,São Paulo,Southeast
+1206,Curitiba,PR,Paraná,South
+1207,Curitiba,PR,Paraná,South
+1208,Ipira,BA,Bahia,Northeast
+1209,Alvorada,RS,Rio Grande do Sul,South
+1210,Campinas,SP,São Paulo,Southeast
+1211,Diadema,SP,São Paulo,Southeast
+1212,Diadema,SP,São Paulo,Southeast
+1213,Sao Paulo,SP,São Paulo,Southeast
+1214,Franco Da Rocha,SP,São Paulo,Southeast
+1215,Maringa,PR,Paraná,South
+1216,Santo Andre,SP,São Paulo,Southeast
+1217,Taboao Da Serra,SP,São Paulo,Southeast
+1218,Estancia Velha,RS,Rio Grande do Sul,South
+1219,Eunapolis,BA,Bahia,Northeast
+1220,Sao Paulo,SP,São Paulo,Southeast
+1221,Morrinhos,GO,Goiás,Central-West
+1222,Sao Paulo,SP,São Paulo,Southeast
+1223,Sao Paulo,SP,São Paulo,Southeast
+1224,Ribeirao Pretp,SP,São Paulo,Southeast
+1225,Macatuba,SP,São Paulo,Southeast
+1226,Balneario Camboriu,SC,Santa Catarina,South
+1227,Belo Horizonte,MG,Minas Gerais,Southeast
+1228,Sao Paulo,SP,São Paulo,Southeast
+1229,Pinhais,PR,Paraná,South
+1230,Belo Horizonte,MG,Minas Gerais,Southeast
+1231,Rio Do Sul,SC,Santa Catarina,South
+1232,Jau,SP,São Paulo,Southeast
+1233,Sao Paulo,SP,São Paulo,Southeast
+1234,Campina Das Missoes,RS,Rio Grande do Sul,South
+1235,Ribeirao Preto,SP,São Paulo,Southeast
+1236,Maringa,PR,Paraná,South
+1237,Curitiba,PR,Paraná,South
+1238,Marechal Candido Rondon,PA,Pará,North
+1239,Sorocaba,SP,São Paulo,Southeast
+1240,Rio Bonito,RJ,Rio de Janeiro,Southeast
+1241,Sao Paulo,SP,São Paulo,Southeast
+1242,Ipatinga,MG,Minas Gerais,Southeast
+1243,Curitiba,PR,Paraná,South
+1244,Guarulhos,SP,São Paulo,Southeast
+1245,Guaratuba,PR,Paraná,South
+1246,Araucaria,PR,Paraná,South
+1247,Formiga,MG,Minas Gerais,Southeast
+1248,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1249,Capivari,SP,São Paulo,Southeast
+1250,Curitiba,PR,Paraná,South
+1251,Pedreira,SP,São Paulo,Southeast
+1252,Osasco,SP,São Paulo,Southeast
+1253,Guarulhos,SP,São Paulo,Southeast
+1254,Guaratuba,PR,Paraná,South
+1255,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1256,Sao Paulo,SP,São Paulo,Southeast
+1257,Santo Andre,SP,São Paulo,Southeast
+1258,Osasco,SP,São Paulo,Southeast
+1259,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1260,Sao Paulo,SP,São Paulo,Southeast
+1261,Curitiba,PR,Paraná,South
+1262,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1263,Apucarana,PR,Paraná,South
+1264,Birigui,SP,São Paulo,Southeast
+1265,Batatais,SP,São Paulo,Southeast
+1266,Sao Sebastiao Da Grama/Sp,SP,São Paulo,Southeast
+1267,Anapolis,GO,Goiás,Central-West
+1268,Marilia,SP,São Paulo,Southeast
+1269,Curitiba,PR,Paraná,South
+1270,Sao Paulo,SP,São Paulo,Southeast
+1271,Bebedouro,SP,São Paulo,Southeast
+1272,Nova Iguacu,RJ,Rio de Janeiro,Southeast
+1273,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1274,Porto Alegre,RS,Rio Grande do Sul,South
+1275,Curitiba,PR,Paraná,South
+1276,Marialva,PR,Paraná,South
+1277,Brasilia,DF,Distrito Federal,Central-West
+1278,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1279,Niteroi,RJ,Rio de Janeiro,Southeast
+1280,Sao Paulo,SP,São Paulo,Southeast
+1281,Piracanjuba,GO,Goiás,Central-West
+1282,Guarulhos,SP,São Paulo,Southeast
+1283,Belo Horizonte,SP,São Paulo,Southeast
+1284,Torres,RS,Rio Grande do Sul,South
+1285,Cotia,SP,São Paulo,Southeast
+1286,Jundiai,SP,São Paulo,Southeast
+1287,Sao Paulo,SP,São Paulo,Southeast
+1288,Blumenau,SC,Santa Catarina,South
+1289,Maringa,PR,Paraná,South
+1290,Morrinhos,GO,Goiás,Central-West
+1291,Sao Paulo,SP,São Paulo,Southeast
+1292,Timbo,SC,Santa Catarina,South
+1293,Castro,PR,Paraná,South
+1294,Curitiba,PR,Paraná,South
+1295,Franca,SP,São Paulo,Southeast
+1296,Sao Paulo,SP,São Paulo,Southeast
+1297,Santa Maria,RS,Rio Grande do Sul,South
+1298,Maringa,PR,Paraná,South
+1299,Marilia,SP,São Paulo,Southeast
+1300,Presidente Prudente,SP,São Paulo,Southeast
+1301,Brotas,SP,São Paulo,Southeast
+1302,Uberlandia,MG,Minas Gerais,Southeast
+1303,Belo Horizonte,MG,Minas Gerais,Southeast
+1304,Sao Paulo,SP,São Paulo,Southeast
+1305,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1306,Curitiba,PR,Paraná,South
+1307,Joinville,SC,Santa Catarina,South
+1308,Guarulhos,SP,São Paulo,Southeast
+1309,Sao Paulo,SP,São Paulo,Southeast
+1310,Curitiba,PR,Paraná,South
+1311,Sao Joaquim Da Barra,SP,São Paulo,Southeast
+1312,Maringa,PR,Paraná,South
+1313,Sao Paulo,SP,São Paulo,Southeast
+1314,Sao Paulo,SP,São Paulo,Southeast
+1315,Palhoca,SC,Santa Catarina,South
+1316,Sao Paulo,SP,São Paulo,Southeast
+1317,Belo Horizonte,MG,Minas Gerais,Southeast
+1318,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1319,Sao Paulo,SP,São Paulo,Southeast
+1320,Rio Claro,SP,São Paulo,Southeast
+1321,Sao Paulo,SP,São Paulo,Southeast
+1322,Sorocaba,SP,São Paulo,Southeast
+1323,Flores Da Cunha,RS,Rio Grande do Sul,South
+1324,Sao Paulo,SP,São Paulo,Southeast
+1325,Jundiai,SP,São Paulo,Southeast
+1326,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1327,Santos,SP,São Paulo,Southeast
+1328,Guarulhos,SP,São Paulo,Southeast
+1329,Sao Paulo,SP,São Paulo,Southeast
+1330,Sao Paulo,SP,São Paulo,Southeast
+1331,Sao Paulop,SP,São Paulo,Southeast
+1332,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1333,Curitiba,PR,Paraná,South
+1334,Pinhalao,PR,Paraná,South
+1335,Sao Paulo,SP,São Paulo,Southeast
+1336,Sorocaba,SP,São Paulo,Southeast
+1337,Fernandopolis,SP,São Paulo,Southeast
+1338,Sao Paulo,SP,São Paulo,Southeast
+1339,Canoinhas,SC,Santa Catarina,South
+1340,Barretos,SP,São Paulo,Southeast
+1341,Goiania,GO,Goiás,Central-West
+1342,Barueri,SP,São Paulo,Southeast
+1343,S Jose Do Rio Preto,SP,São Paulo,Southeast
+1344,Juiz De Fora,MG,Minas Gerais,Southeast
+1345,Sao Paulo,SP,São Paulo,Southeast
+1346,Belo Horizonte,MG,Minas Gerais,Southeast
+1347,Birigui,SP,São Paulo,Southeast
+1348,Jacarei,SP,São Paulo,Southeast
+1349,Sao Paulo,SP,São Paulo,Southeast
+1350,Franco Da Rocha,SP,São Paulo,Southeast
+1351,Caruaru,PE,Pernambuco,Northeast
+1352,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1353,Sao Paulo,SP,São Paulo,Southeast
+1354,Mogi Das Cruzes,SP,São Paulo,Southeast
+1355,Itatiba,SP,São Paulo,Southeast
+1356,Sao Paulo,SP,São Paulo,Southeast
+1357,Sete Lagoas,MG,Minas Gerais,Southeast
+1358,Sao Paulo,SP,São Paulo,Southeast
+1359,Rolandia,PR,Paraná,South
+1360,Porto Alegre,RS,Rio Grande do Sul,South
+1361,Videira,SC,Santa Catarina,South
+1362,Curitiba,PR,Paraná,South
+1363,Amparo,SP,São Paulo,Southeast
+1364,Curitiba,PR,Paraná,South
+1365,Penapolis,SP,São Paulo,Southeast
+1366,Monte Alto,SP,São Paulo,Southeast
+1367,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1368,Sao Paulo / Sao Paulo,SP,São Paulo,Southeast
+1369,Serra Negra,SP,São Paulo,Southeast
+1370,Tatui,SP,São Paulo,Southeast
+1371,Videira,SC,Santa Catarina,South
+1372,Alambari,SP,São Paulo,Southeast
+1373,Campinas,SP,São Paulo,Southeast
+1374,Curitiba,PR,Paraná,South
+1375,Franca,SP,São Paulo,Southeast
+1376,Mogi Das Cruzes / Sp,SP,São Paulo,Southeast
+1377,Sao Paulo,SP,São Paulo,Southeast
+1378,Marechal Candido Rondon,PR,Paraná,South
+1379,Limeira,SP,São Paulo,Southeast
+1380,Santana De Parnaiba,SP,São Paulo,Southeast
+1381,"Novo Hamburgo, Rio Grande Do Sul, Brasil",RS,Rio Grande do Sul,South
+1382,Ibitinga,SP,São Paulo,Southeast
+1383,Rio Das Pedras,SP,São Paulo,Southeast
+1384,Claudio,MG,Minas Gerais,Southeast
+1385,Sao Paulo,SP,São Paulo,Southeast
+1386,Araguari,MG,Minas Gerais,Southeast
+1387,Mineiros Do Tiete,SP,São Paulo,Southeast
+1388,Limeira,SP,São Paulo,Southeast
+1389,Sao Paulo,SP,São Paulo,Southeast
+1390,Cascavel,PR,Paraná,South
+1391,Guarulhos,SP,São Paulo,Southeast
+1392,Sao Paulo,SP,São Paulo,Southeast
+1393,Rio Claro,SP,São Paulo,Southeast
+1394,Sao Carlos,SP,São Paulo,Southeast
+1395,Lages - Sc,SC,Santa Catarina,South
+1396,Araras,SP,São Paulo,Southeast
+1397,Brasilia,DF,Distrito Federal,Central-West
+1398,Lagoa Santa,MG,Minas Gerais,Southeast
+1399,Campina Grande,PB,Paraíba,Northeast
+1400,Curitiba,PR,Paraná,South
+1401,Campinas,SP,São Paulo,Southeast
+1402,Sao Carlos,SP,São Paulo,Southeast
+1403,Caxias Do Sul,SP,São Paulo,Southeast
+1404,Cambe,PR,Paraná,South
+1405,Santo Andre,SP,São Paulo,Southeast
+1406,Colombo,PR,Paraná,South
+1407,Sao Paulo,SP,São Paulo,Southeast
+1408,Ibitinga,SP,São Paulo,Southeast
+1409,Vitoria De Santo Antao,PE,Pernambuco,Northeast
+1410,Sao Paulo,SP,São Paulo,Southeast
+1411,Santos,SP,São Paulo,Southeast
+1412,Guarulhos,SP,São Paulo,Southeast
+1413,Sao Paulo,SP,São Paulo,Southeast
+1414,Sao Paulo,SP,São Paulo,Southeast
+1415,Mogi Guacu,SP,São Paulo,Southeast
+1416,Goiania,GO,Goiás,Central-West
+1417,Ribeirao Pires,SP,São Paulo,Southeast
+1418,Campinas,SP,São Paulo,Southeast
+1419,Brasilia,DF,Distrito Federal,Central-West
+1420,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1421,Caxias Do Sul,RS,Rio Grande do Sul,South
+1422,Salvador,BA,Bahia,Northeast
+1423,Goiania,GO,Goiás,Central-West
+1424,Maua,SP,São Paulo,Southeast
+1425,Sao Paulo,SP,São Paulo,Southeast
+1426,Londrina,PR,Paraná,South
+1427,Itu,SP,São Paulo,Southeast
+1428,Guarulhos,SP,São Paulo,Southeast
+1429,Guarulhos,SP,São Paulo,Southeast
+1430,Birigui,SP,São Paulo,Southeast
+1431,Sao Paulo,SP,São Paulo,Southeast
+1432,Brasilia,DF,Distrito Federal,Central-West
+1433,Ribeirao Preto,SP,São Paulo,Southeast
+1434,Sorocaba,SP,São Paulo,Southeast
+1435,Sao Paulo,SP,São Paulo,Southeast
+1436,Curitiba,PR,Paraná,South
+1437,Xaxim,SC,Santa Catarina,South
+1438,Sao Paulo,SP,São Paulo,Southeast
+1439,Sao Paulo,SP,São Paulo,Southeast
+1440,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1441,Curitiba,PR,Paraná,South
+1442,Guarulhos,SP,São Paulo,Southeast
+1443,Sao Paulo,SP,São Paulo,Southeast
+1444,Sao Paulo,SP,São Paulo,Southeast
+1445,Diadema,SP,São Paulo,Southeast
+1446,Lajeado,RS,Rio Grande do Sul,South
+1447,Brasilia,DF,Distrito Federal,Central-West
+1448,Campos Dos Goytacazes,RJ,Rio de Janeiro,Southeast
+1449,Osasco,SP,São Paulo,Southeast
+1450,Araraquara,SP,São Paulo,Southeast
+1451,Campinas,SP,São Paulo,Southeast
+1452,Campinas,SP,São Paulo,Southeast
+1453,Sao Paulo,SP,São Paulo,Southeast
+1454,Recife,PE,Pernambuco,Northeast
+1455,Bento Goncalves,RS,Rio Grande do Sul,South
+1456,Sao Paulo,SP,São Paulo,Southeast
+1457,Sao Paulo,SP,São Paulo,Southeast
+1458,Bauru,SP,São Paulo,Southeast
+1459,Mogi Das Cruzes,SP,São Paulo,Southeast
+1460,Marilia,SP,São Paulo,Southeast
+1461,Santa Cruz Do Sul,RS,Rio Grande do Sul,South
+1462,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1463,Ribeirao Preto,SP,São Paulo,Southeast
+1464,Araraquara,SP,São Paulo,Southeast
+1465,Curitiba,PR,Paraná,South
+1466,Sao Paulo,SP,São Paulo,Southeast
+1467,Sao Paulo,SP,São Paulo,Southeast
+1468,Cariacica / Es,ES,Espírito Santo,Southeast
+1469,Sao Paulo,SP,São Paulo,Southeast
+1470,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1471,Cascavel,PR,Paraná,South
+1472,Rio Claro,SP,São Paulo,Southeast
+1473,Bauru,SP,São Paulo,Southeast
+1474,Sao Paulo,SP,São Paulo,Southeast
+1475,Jacutinga,MG,Minas Gerais,Southeast
+1476,Curitiba,PR,Paraná,South
+1477,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1478,Sao Paulo,SP,São Paulo,Southeast
+1479,Francisco Beltrao,PR,Paraná,South
+1480,Mesquita,RJ,Rio de Janeiro,Southeast
+1481,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1482,Laranjal Paulista,SP,São Paulo,Southeast
+1483,Catanduva,SP,São Paulo,Southeast
+1484,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1485,Ibitinga,SP,São Paulo,Southeast
+1486,Rio Bonito,SP,São Paulo,Southeast
+1487,Sao Paulo,SP,São Paulo,Southeast
+1488,Bauru,SP,São Paulo,Southeast
+1489,Sao Paulo,SP,São Paulo,Southeast
+1490,Braganca Paulista,SP,São Paulo,Southeast
+1491,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1492,Sao Paulo,SP,São Paulo,Southeast
+1493,Tambau,SP,São Paulo,Southeast
+1494,Goiania,GO,Goiás,Central-West
+1495,Osasco,SP,São Paulo,Southeast
+1496,Tubarao,SC,Santa Catarina,South
+1497,Loanda,PR,Paraná,South
+1498,Sao Paulo,SP,São Paulo,Southeast
+1499,Bauru,SP,São Paulo,Southeast
+1500,Sao Paulo,SP,São Paulo,Southeast
+1501,Boituva,SP,São Paulo,Southeast
+1502,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1503,Sao Roque,SP,São Paulo,Southeast
+1504,Campinas,SP,São Paulo,Southeast
+1505,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+1506,Picarras,SC,Santa Catarina,South
+1507,Sao Paulo,SP,São Paulo,Southeast
+1508,Itaquaquecetuba,SP,São Paulo,Southeast
+1509,Garca,SP,São Paulo,Southeast
+1510,Sao Paulo,SP,São Paulo,Southeast
+1511,Sete Lagoas,MG,Minas Gerais,Southeast
+1512,Sao Paulo,SP,São Paulo,Southeast
+1513,Ribeirao Preto,SP,São Paulo,Southeast
+1514,Barra Velha,SC,Santa Catarina,South
+1515,Mogi Das Cruzes,SP,São Paulo,Southeast
+1516,Campo Grande,MS,Mato Grosso do Sul,Central-West
+1517,Sao Paulo,SP,São Paulo,Southeast
+1518,Sao Paulo,SP,São Paulo,Southeast
+1519,Ibitinga,SP,São Paulo,Southeast
+1520,Sao Paulo,SP,São Paulo,Southeast
+1521,Guaruja,SP,São Paulo,Southeast
+1522,Tanabi,SP,São Paulo,Southeast
+1523,Sao Paulo,SP,São Paulo,Southeast
+1524,Dores De Campos,MG,Minas Gerais,Southeast
+1525,Sao Paulo,SP,São Paulo,Southeast
+1526,Cascavel,PR,Paraná,South
+1527,Campo Grande,MS,Mato Grosso do Sul,Central-West
+1528,Franca,SP,São Paulo,Southeast
+1529,Belo Horizonte,MG,Minas Gerais,Southeast
+1530,Cambe,PR,Paraná,South
+1531,Sao Paulo,SP,São Paulo,Southeast
+1532,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1533,Barueri,SP,São Paulo,Southeast
+1534,Sao Paulo,SP,São Paulo,Southeast
+1535,Belo Horizonte,MG,Minas Gerais,Southeast
+1536,Brasilia,DF,Distrito Federal,Central-West
+1537,Campinas,SP,São Paulo,Southeast
+1538,Sao Paulo,SP,São Paulo,Southeast
+1539,Criciuma,SC,Santa Catarina,South
+1540,Sao Paulo,SP,São Paulo,Southeast
+1541,Valinhos,SP,São Paulo,Southeast
+1542,Rio Claro,SP,São Paulo,Southeast
+1543,Jacarei / Sao Paulo,SP,São Paulo,Southeast
+1544,Mogi Mirim,SP,São Paulo,Southeast
+1545,Guarulhos,SP,São Paulo,Southeast
+1546,Toledo,PR,Paraná,South
+1547,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1548,Guarulhos,SP,São Paulo,Southeast
+1549,Jaragua Do Sul,SC,Santa Catarina,South
+1550,Taboao Da Serra,SP,São Paulo,Southeast
+1551,Maringa,PR,Paraná,South
+1552,Blumenau,SP,São Paulo,Southeast
+1553,Sao Paulo,SP,São Paulo,Southeast
+1554,Sao Paulo - Sp,SP,São Paulo,Southeast
+1555,Sao Paulo,SP,São Paulo,Southeast
+1556,Londrina,PR,Paraná,South
+1557,Sao Paulo,SP,São Paulo,Southeast
+1558,Pinhais,PR,Paraná,South
+1559,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1560,Florianopolis,SC,Santa Catarina,South
+1561,Jundiai,SP,São Paulo,Southeast
+1562,Sao Carlos,SP,São Paulo,Southeast
+1563,Ibitinga,SP,São Paulo,Southeast
+1564,Bauru,SP,São Paulo,Southeast
+1565,Sorocaba,SP,São Paulo,Southeast
+1566,Tiete,SP,São Paulo,Southeast
+1567,Tabao Da Serra,SP,São Paulo,Southeast
+1568,Sao Paulo,SP,São Paulo,Southeast
+1569,Sao Jose Dos Pinhais,PR,Paraná,South
+1570,Divinopolis,MG,Minas Gerais,Southeast
+1571,Presidente Prudente,SP,São Paulo,Southeast
+1572,Sao Paulo,SP,São Paulo,Southeast
+1573,Maringa,PR,Paraná,South
+1574,Sao Paulo,SP,São Paulo,Southeast
+1575,Tres Rios,RJ,Rio de Janeiro,Southeast
+1576,Mogi Guacu,SP,São Paulo,Southeast
+1577,Balneario Camboriu,SC,Santa Catarina,South
+1578,Curitiba,PR,Paraná,South
+1579,Sao Paulo,SP,São Paulo,Southeast
+1580,Marilia,SP,São Paulo,Southeast
+1581,Caxias Do Sul,RS,Rio Grande do Sul,South
+1582,Sao Paulo,SP,São Paulo,Southeast
+1583,Sao Paulo,SP,São Paulo,Southeast
+1584,Sao Paulo,SP,São Paulo,Southeast
+1585,Araraquara,SP,São Paulo,Southeast
+1586,Sao Paulo,SP,São Paulo,Southeast
+1587,Sao Paulo,SP,São Paulo,Southeast
+1588,Santa Terezinha De Itaipu,PR,Paraná,South
+1589,Itajai,SC,Santa Catarina,South
+1590,Amparo,SP,São Paulo,Southeast
+1591,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1592,Sao Carlos,SP,São Paulo,Southeast
+1593,Francisco Beltrao,PR,Paraná,South
+1594,Vila Velha,SP,São Paulo,Southeast
+1595,Cotia,SP,São Paulo,Southeast
+1596,Florianopolis,SC,Santa Catarina,South
+1597,Mage,RJ,Rio de Janeiro,Southeast
+1598,Ribeirao Preto,SP,São Paulo,Southeast
+1599,Congonhal,MG,Minas Gerais,Southeast
+1600,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1601,Campo Bom,RS,Rio Grande do Sul,South
+1602,Sao Paulo,SP,São Paulo,Southeast
+1603,Curitiba,PR,Paraná,South
+1604,Osasco,SP,São Paulo,Southeast
+1605,Cascavel,PR,Paraná,South
+1606,Atibaia,SP,São Paulo,Southeast
+1607,Sao Paulo,SP,São Paulo,Southeast
+1608,Lencois Paulista,SP,São Paulo,Southeast
+1609,Itatiba,SP,São Paulo,Southeast
+1610,Guarulhos,SP,São Paulo,Southeast
+1611,Barra Mansa,RJ,Rio de Janeiro,Southeast
+1612,Belo Horizonte,MG,Minas Gerais,Southeast
+1613,Itapema,SC,Santa Catarina,South
+1614,Sao Paulo,SP,São Paulo,Southeast
+1615,Sao Paulo,SP,São Paulo,Southeast
+1616,Garopaba,SC,Santa Catarina,South
+1617,Goiania,GO,Goiás,Central-West
+1618,Ribeirao Preto,SP,São Paulo,Southeast
+1619,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1620,Jacarei,SP,São Paulo,Southeast
+1621,Arapongas,PR,Paraná,South
+1622,Franca,SP,São Paulo,Southeast
+1623,Viamao,RS,Rio Grande do Sul,South
+1624,Blumenau,SC,Santa Catarina,South
+1625,Palhoca,SC,Santa Catarina,South
+1626,Pocos De Caldas,MG,Minas Gerais,Southeast
+1627,Porto Alegre,RS,Rio Grande do Sul,South
+1628,Santo Andre,SP,São Paulo,Southeast
+1629,Sao Paulo,SP,São Paulo,Southeast
+1630,Guaimbe,SP,São Paulo,Southeast
+1631,Suzano,SP,São Paulo,Southeast
+1632,Sao Paulo,SP,São Paulo,Southeast
+1633,Sao Paulo,SP,São Paulo,Southeast
+1634,Nhandeara,SP,São Paulo,Southeast
+1635,Sao Paulo,SP,São Paulo,Southeast
+1636,Bom Jesus Dos Perdoes,SP,São Paulo,Southeast
+1637,Belo Horizont,MG,Minas Gerais,Southeast
+1638,Curitiba,PR,Paraná,South
+1639,Maringa,PR,Paraná,South
+1640,Braco Do Norte,SC,Santa Catarina,South
+1641,Lencois Paulista,SP,São Paulo,Southeast
+1642,Sao Paulo,SP,São Paulo,Southeast
+1643,Taboao Da Serra,SP,São Paulo,Southeast
+1644,Brusque,SC,Santa Catarina,South
+1645,Sao Carlos,SP,São Paulo,Southeast
+1646,Guaratuba,PR,Paraná,South
+1647,Sao Paulo,SP,São Paulo,Southeast
+1648,Sao Paulo,SP,São Paulo,Southeast
+1649,Sao Paulo,SP,São Paulo,Southeast
+1650,Ribeirao Preto,SP,São Paulo,Southeast
+1651,Sao Paulo,SP,São Paulo,Southeast
+1652,Brasilia,DF,Distrito Federal,Central-West
+1653,Sao Paulo,SP,São Paulo,Southeast
+1654,Sao Paulo,SP,São Paulo,Southeast
+1655,Osasco,SP,São Paulo,Southeast
+1656,Sao Paulo,SP,São Paulo,Southeast
+1657,Maua/Sao Paulo,SP,São Paulo,Southeast
+1658,Londrina,PR,Paraná,South
+1659,Vassouras,RJ,Rio de Janeiro,Southeast
+1660,Sao Paulo,SP,São Paulo,Southeast
+1661,Sao  Jose Dos Pinhais,PR,Paraná,South
+1662,Jaci,SP,São Paulo,Southeast
+1663,Curitiba,PR,Paraná,South
+1664,Sao Paulo,SP,São Paulo,Southeast
+1665,Curitiba,PR,Paraná,South
+1666,Sao Paulo,SP,São Paulo,Southeast
+1667,Presidente Prudente,SP,São Paulo,Southeast
+1668,Curitiba,PR,Paraná,South
+1669,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1670,Contagem,MG,Minas Gerais,Southeast
+1671,Goiania,GO,Goiás,Central-West
+1672,Navegantes,SC,Santa Catarina,South
+1673,Goioere,SP,São Paulo,Southeast
+1674,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+1675,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1676,Fazenda Rio Grande,PR,Paraná,South
+1677,Sao Paulo,SP,São Paulo,Southeast
+1678,Osasco,SP,São Paulo,Southeast
+1679,Sao Paulo,SP,São Paulo,Southeast
+1680,Londrina,PR,Paraná,South
+1681,Mesquita,RJ,Rio de Janeiro,Southeast
+1682,Assis,SP,São Paulo,Southeast
+1683,Tres De Maio,RS,Rio Grande do Sul,South
+1684,Sao Paulo,SP,São Paulo,Southeast
+1685,Sao Paulo,SP,São Paulo,Southeast
+1686,Sumare,SP,São Paulo,Southeast
+1687,Blumenau,SC,Santa Catarina,South
+1688,Praia Grande,SP,São Paulo,Southeast
+1689,Belo Horizonte,MG,Minas Gerais,Southeast
+1690,Indaiatuba,SP,São Paulo,Southeast
+1691,Horizontina,RS,Rio Grande do Sul,South
+1692,Carapicuiba,SP,São Paulo,Southeast
+1693,Campo Largo,PR,Paraná,South
+1694,Maua,SP,São Paulo,Southeast
+1695,Anapolis,GO,Goiás,Central-West
+1696,Jaragua Do Sul,SC,Santa Catarina,South
+1697,Andradas,MG,Minas Gerais,Southeast
+1698,Rio Claro,SP,São Paulo,Southeast
+1699,Sao Jose,SC,Santa Catarina,South
+1700,Campinas,SP,São Paulo,Southeast
+1701,Caucaia,CE,Ceará,Northeast
+1702,Sao Roque,SP,São Paulo,Southeast
+1703,Sao Paulo,SP,São Paulo,Southeast
+1704,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1705,Sao Paulo,SP,São Paulo,Southeast
+1706,Paulo Lopes,SC,Santa Catarina,South
+1707,Sao Paulo,SP,São Paulo,Southeast
+1708,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1709,Curitiba,PR,Paraná,South
+1710,Mirassol,SP,São Paulo,Southeast
+1711,Campinas,SP,São Paulo,Southeast
+1712,Sao Paulo,SP,São Paulo,Southeast
+1713,Porto Alegre,RS,Rio Grande do Sul,South
+1714,Juiz De Fora,MG,Minas Gerais,Southeast
+1715,Araguari,MG,Minas Gerais,Southeast
+1716,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1717,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+1718,Sorocaba,SP,São Paulo,Southeast
+1719,Cacador,SC,Santa Catarina,South
+1720,Criciuma,SC,Santa Catarina,South
+1721,Blumenau,SC,Santa Catarina,South
+1722,Sao Paulo,SP,São Paulo,Southeast
+1723,Barueri,SP,São Paulo,Southeast
+1724,Sao Paulo,SP,São Paulo,Southeast
+1725,Pirituba,SP,São Paulo,Southeast
+1726,Ipatinga,MG,Minas Gerais,Southeast
+1727,Ribeirao Preto,SP,São Paulo,Southeast
+1728,Tiradentes,MG,Minas Gerais,Southeast
+1729,Toledo,PR,Paraná,South
+1730,Sao Paulo,SP,São Paulo,Southeast
+1731,Santo Andre,SP,São Paulo,Southeast
+1732,Sorocaba,SP,São Paulo,Southeast
+1733,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1734,Sao Paulo,SP,São Paulo,Southeast
+1735,Paulo Lopes,SC,Santa Catarina,South
+1736,Laranjal Paulista,SP,São Paulo,Southeast
+1737,Marilia,SP,São Paulo,Southeast
+1738,Sao Paulo,SP,São Paulo,Southeast
+1739,Sao Paulo,SP,São Paulo,Southeast
+1740,Salto,SP,São Paulo,Southeast
+1741,Porto Alegre,RS,Rio Grande do Sul,South
+1742,Mogi Guacu,SP,São Paulo,Southeast
+1743,Sao Paulo,SP,São Paulo,Southeast
+1744,Conchal,SP,São Paulo,Southeast
+1745,Curitiba,PR,Paraná,South
+1746,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1747,Blumenau,SC,Santa Catarina,South
+1748,Amparo,SP,São Paulo,Southeast
+1749,Maringa,PR,Paraná,South
+1750,Blumenau,SC,Santa Catarina,South
+1751,Sorocaba,SP,São Paulo,Southeast
+1752,Curitiba,PR,Paraná,South
+1753,Sao Paulo,SP,São Paulo,Southeast
+1754,Valinhos,SP,São Paulo,Southeast
+1755,Rodeio,SC,Santa Catarina,South
+1756,Tubarao,SC,Santa Catarina,South
+1757,Barra Mansa,RJ,Rio de Janeiro,Southeast
+1758,Sao Paulo,SP,São Paulo,Southeast
+1759,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1760,Sao Paulo,SP,São Paulo,Southeast
+1761,Palhoca,SC,Santa Catarina,South
+1762,Londrina,PR,Paraná,South
+1763,Sao Paulo,SP,São Paulo,Southeast
+1764,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+1765,Sao Paulo,SP,São Paulo,Southeast
+1766,Londrina,PR,Paraná,South
+1767,Curitiba,PR,Paraná,South
+1768,Curitiba,PR,Paraná,South
+1769,Conselheiro Lafaiete,MG,Minas Gerais,Southeast
+1770,Mairipora,SP,São Paulo,Southeast
+1771,Sao Paulo,SP,São Paulo,Southeast
+1772,Belo Horizonte,MG,Minas Gerais,Southeast
+1773,Viamao,RS,Rio Grande do Sul,South
+1774,Sao Paulo,SP,São Paulo,Southeast
+1775,Uberlandia,MG,Minas Gerais,Southeast
+1776,Porto Alegre,SP,São Paulo,Southeast
+1777,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1778,Santo Andre,SP,São Paulo,Southeast
+1779,Guarulhos,SP,São Paulo,Southeast
+1780,Sorocaba,SP,São Paulo,Southeast
+1781,Clementina,SP,São Paulo,Southeast
+1782,Sao Roque,SP,São Paulo,Southeast
+1783,Votuporanga,SP,São Paulo,Southeast
+1784,Ibitinga,SP,São Paulo,Southeast
+1785,Sao Paulo,SP,São Paulo,Southeast
+1786,Sao Paulo,SP,São Paulo,Southeast
+1787,Sao Paulo,SP,São Paulo,Southeast
+1788,Joao Monlevade,MG,Minas Gerais,Southeast
+1789,Apucarana,PR,Paraná,South
+1790,Sao Paulo,SP,São Paulo,Southeast
+1791,Sao Paulo,SP,São Paulo,Southeast
+1792,Varginha,MG,Minas Gerais,Southeast
+1793,Sao Paulo,SP,São Paulo,Southeast
+1794,Sao Paulo,SP,São Paulo,Southeast
+1795,Palotina,PR,Paraná,South
+1796,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1797,Limeira,SP,São Paulo,Southeast
+1798,Borda Da Mata,MG,Minas Gerais,Southeast
+1799,Sao Paulo,SP,São Paulo,Southeast
+1800,Umuarama,PR,Paraná,South
+1801,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1802,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1803,Sao Paulo,SP,São Paulo,Southeast
+1804,Sao Paulo,SP,São Paulo,Southeast
+1805,Diadema,SP,São Paulo,Southeast
+1806,Sao Paulo,SP,São Paulo,Southeast
+1807,Ibia,MG,Minas Gerais,Southeast
+1808,Sao Paulo,SP,São Paulo,Southeast
+1809,Erechim,RS,Rio Grande do Sul,South
+1810,Bom Jardim,RJ,Rio de Janeiro,Southeast
+1811,Cravinhos,SP,São Paulo,Southeast
+1812,Brusque,SC,Santa Catarina,South
+1813,Claudio,MG,Minas Gerais,Southeast
+1814,Araraquara,SP,São Paulo,Southeast
+1815,Sao Paulo,SP,São Paulo,Southeast
+1816,Tabatinga,SP,São Paulo,Southeast
+1817,Sao Paulo,SP,São Paulo,Southeast
+1818,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1819,Sao Paulo,SP,São Paulo,Southeast
+1820,Lorena,SP,São Paulo,Southeast
+1821,Rio Verde,GO,Goiás,Central-West
+1822,Rio Claro,SP,São Paulo,Southeast
+1823,Ao Bernardo Do Campo,SP,São Paulo,Southeast
+1824,Americana,SP,São Paulo,Southeast
+1825,Campo Largo,PR,Paraná,South
+1826,Sao Joao Del Rei,MG,Minas Gerais,Southeast
+1827,Curitiba,PR,Paraná,South
+1828,Sao Paulo,SP,São Paulo,Southeast
+1829,Sarandi,PR,Paraná,South
+1830,Sao Paulo,SP,São Paulo,Southeast
+1831,Macae,RJ,Rio de Janeiro,Southeast
+1832,Cuiaba,MT,Mato Grosso,Central-West
+1833,Maringa,PR,Paraná,South
+1834,Jaguariuna,SP,São Paulo,Southeast
+1835,Tupa,SP,São Paulo,Southeast
+1836,Sao Paulo,SP,São Paulo,Southeast
+1837,Sao Paulo,SP,São Paulo,Southeast
+1838,Sao Paulo,SP,São Paulo,Southeast
+1839,Sao Paulo,SP,São Paulo,Southeast
+1840,Franca,SP,São Paulo,Southeast
+1841,Catanduva,SP,São Paulo,Southeast
+1842,Catanduva,SP,São Paulo,Southeast
+1843,Belford Roxo,RJ,Rio de Janeiro,Southeast
+1844,Luziania,GO,Goiás,Central-West
+1845,Muriae,MG,Minas Gerais,Southeast
+1846,Jaragua,GO,Goiás,Central-West
+1847,Sao Paulo,SP,São Paulo,Southeast
+1848,Fazenda Rio Grande,PR,Paraná,South
+1849,Janauba,MG,Minas Gerais,Southeast
+1850,Sao Paulo,SP,São Paulo,Southeast
+1851,Vicente De Carvalho,SP,São Paulo,Southeast
+1852,Montes Claros,MG,Minas Gerais,Southeast
+1853,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1854,Pitanga,PR,Paraná,South
+1855,Santos,SP,São Paulo,Southeast
+1856,Sao Paulo,SP,São Paulo,Southeast
+1857,Boituva,SP,São Paulo,Southeast
+1858,Sao Jose Dos Pinhais,PR,Paraná,South
+1859,Indaiatuba,SP,São Paulo,Southeast
+1860,Sao Paulo,SP,São Paulo,Southeast
+1861,Blumenau,SC,Santa Catarina,South
+1862,Contagem,MG,Minas Gerais,Southeast
+1863,Coxim,MS,Mato Grosso do Sul,Central-West
+1864,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1865,Praia Grande,SP,São Paulo,Southeast
+1866,Sao Paulo,SP,São Paulo,Southeast
+1867,Carmo Da Mata,MG,Minas Gerais,Southeast
+1868,Caxias Do Sul,RS,Rio Grande do Sul,South
+1869,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1870,Loanda,PR,Paraná,South
+1871,Curitiba,PR,Paraná,South
+1872,Camanducaia,MG,Minas Gerais,Southeast
+1873,Osasco,SP,São Paulo,Southeast
+1874,Birigui,SP,São Paulo,Southeast
+1875,Araucaria,PR,Paraná,South
+1876,Franca,SP,São Paulo,Southeast
+1877,Ibitinga,SP,São Paulo,Southeast
+1878,Sao Paulo,SP,São Paulo,Southeast
+1879,Leme,SP,São Paulo,Southeast
+1880,Sorocaba,SP,São Paulo,Southeast
+1881,Florianopolis,SP,São Paulo,Southeast
+1882,Aparecida De Goiania,GO,Goiás,Central-West
+1883,Curitiba,PR,Paraná,South
+1884,Ribeirao Preto,SP,São Paulo,Southeast
+1885,Franca,SP,São Paulo,Southeast
+1886,Osasco,SP,São Paulo,Southeast
+1887,Votuporanga,SP,São Paulo,Southeast
+1888,Sao Paulo,SP,São Paulo,Southeast
+1889,Sao Paulo,SP,São Paulo,Southeast
+1890,Foz Do Iguacu,PR,Paraná,South
+1891,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+1892,Joinville,SC,Santa Catarina,South
+1893,Sao Leopoldo,RS,Rio Grande do Sul,South
+1894,Ribeirao Preto,SP,São Paulo,Southeast
+1895,Taubate,SP,São Paulo,Southeast
+1896,Mirandopolis,SP,São Paulo,Southeast
+1897,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1898,Sao Paulo,SP,São Paulo,Southeast
+1899,Sao Carlos,SP,São Paulo,Southeast
+1900,Contagem,MG,Minas Gerais,Southeast
+1901,Sao Paulo,SP,São Paulo,Southeast
+1902,Ibitinga,SP,São Paulo,Southeast
+1903,Taubate,SP,São Paulo,Southeast
+1904,Sao Paulo,SP,São Paulo,Southeast
+1905,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1906,Sao Paulo,SP,São Paulo,Southeast
+1907,Belo Horizonte,MG,Minas Gerais,Southeast
+1908,Sao Paulo,SP,São Paulo,Southeast
+1909,Bofete,SP,São Paulo,Southeast
+1910,Nova Iguacu,RJ,Rio de Janeiro,Southeast
+1911,Franca,SP,São Paulo,Southeast
+1912,Divinopolis,MG,Minas Gerais,Southeast
+1913,Sao Paulo,SP,São Paulo,Southeast
+1914,Sao Paulo,SP,São Paulo,Southeast
+1915,Sapiranga,RS,Rio Grande do Sul,South
+1916,Curitiba,PR,Paraná,South
+1917,Ferraz De Vasconcelos,SP,São Paulo,Southeast
+1918,Sao Jose Dos Pinhais,PR,Paraná,South
+1919,Jundiai,SP,São Paulo,Southeast
+1920,Ilicinea,MG,Minas Gerais,Southeast
+1921,Indaiatuba,SP,São Paulo,Southeast
+1922,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1923,Joinville,SC,Santa Catarina,South
+1924,Pinhais,SP,São Paulo,Southeast
+1925,Sorocaba,SP,São Paulo,Southeast
+1926,Jundiai,SP,São Paulo,Southeast
+1927,Sao Paulo,SP,São Paulo,Southeast
+1928,Sorocaba,SP,São Paulo,Southeast
+1929,Carapicuiba / Sao Paulo,SP,São Paulo,Southeast
+1930,Pinhais,PR,Paraná,South
+1931,Sao Jose Dos Campos,SP,São Paulo,Southeast
+1932,Maringa,PR,Paraná,South
+1933,Araraquara,SP,São Paulo,Southeast
+1934,Santana De Parnaiba,SP,São Paulo,Southeast
+1935,Porto Alegre,RS,Rio Grande do Sul,South
+1936,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1937,Cafelandia,SP,São Paulo,Southeast
+1938,Sao Paulo,SP,São Paulo,Southeast
+1939,Osasco,SP,São Paulo,Southeast
+1940,Barra Mansa,RJ,Rio de Janeiro,Southeast
+1941,Sao Paulo,SP,São Paulo,Southeast
+1942,Miguelopolis,SP,São Paulo,Southeast
+1943,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1944,Florianopolis,SC,Santa Catarina,South
+1945,Curitiba,SP,São Paulo,Southeast
+1946,Sao Paulo,SP,São Paulo,Southeast
+1947,Cariacica,ES,Espírito Santo,Southeast
+1948,Novo Hamburgo,RS,Rio Grande do Sul,South
+1949,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+1950,Barueri,SP,São Paulo,Southeast
+1951,Ribeirao Preto,SP,São Paulo,Southeast
+1952,Sao Paulo,SP,São Paulo,Southeast
+1953,Joinville,SC,Santa Catarina,South
+1954,Sao Bernardo Do Capo,SP,São Paulo,Southeast
+1955,Orlandia,SP,São Paulo,Southeast
+1956,Salvador,BA,Bahia,Northeast
+1957,Ibitinga,SP,São Paulo,Southeast
+1958,Curitiba,PR,Paraná,South
+1959,SãO Paulo,SP,São Paulo,Southeast
+1960,Sao Paulo,SP,São Paulo,Southeast
+1961,Sao Paulo,SP,São Paulo,Southeast
+1962,Sao Paulo,SP,São Paulo,Southeast
+1963,Curitiba,PR,Paraná,South
+1964,Franca,SP,São Paulo,Southeast
+1965,Porto Alegre,RS,Rio Grande do Sul,South
+1966,Mirassol,SP,São Paulo,Southeast
+1967,Sao Paulo,SP,São Paulo,Southeast
+1968,Blumenau,SC,Santa Catarina,South
+1969,Sao Paulo,SP,São Paulo,Southeast
+1970,Florianopolis,SC,Santa Catarina,South
+1971,Sumare,SP,São Paulo,Southeast
+1972,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+1973,Sao Caetano Do Sul,SP,São Paulo,Southeast
+1974,Sao Paulo,SP,São Paulo,Southeast
+1975,Ji Parana,RO,Rondônia,North
+1976,Uberlandia,MG,Minas Gerais,Southeast
+1977,Joinville,SC,Santa Catarina,South
+1978,Itajai,SC,Santa Catarina,South
+1979,Socorro,SP,São Paulo,Southeast
+1980,Sao Paulo,SP,São Paulo,Southeast
+1981,Campo Mourao,PR,Paraná,South
+1982,Caruaru,PE,Pernambuco,Northeast
+1983,Sao Paulo,SP,São Paulo,Southeast
+1984,Jarinu,SP,São Paulo,Southeast
+1985,Niteroi,RJ,Rio de Janeiro,Southeast
+1986,Sao Paulo,SP,São Paulo,Southeast
+1987,Sao Paulo,SP,São Paulo,Southeast
+1988,Sao Paulo,SP,São Paulo,Southeast
+1989,Presidente Prudente,SP,São Paulo,Southeast
+1990,Carapicuiba,SP,São Paulo,Southeast
+1991,Mamanguape,PB,Paraíba,Northeast
+1992,Franca,SP,São Paulo,Southeast
+1993,Mandaguari,PR,Paraná,South
+1994,Flores Da Cunha,RS,Rio Grande do Sul,South
+1995,Marilia,SP,São Paulo,Southeast
+1996,Itirapina,SP,São Paulo,Southeast
+1997,Sao Paulo,SP,São Paulo,Southeast
+1998,Barretos,SP,São Paulo,Southeast
+1999,Mogi Das Cruzes,SP,São Paulo,Southeast
+2000,Sao Paulo,SP,São Paulo,Southeast
+2001,Sao Paulo,SP,São Paulo,Southeast
+2002,Vila Velha,ES,Espírito Santo,Southeast
+2003,Itaquaquecetuba,SP,São Paulo,Southeast
+2004,Serra,ES,Espírito Santo,Southeast
+2005,Sao Ludgero,SC,Santa Catarina,South
+2006,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2007,Umuarama,PR,Paraná,South
+2008,Limeira,SP,São Paulo,Southeast
+2009,Ponta Grossa,PR,Paraná,South
+2010,Nilopolis,RJ,Rio de Janeiro,Southeast
+2011,Prados,MG,Minas Gerais,Southeast
+2012,Batatais,SP,São Paulo,Southeast
+2013,Santo Andre,SP,São Paulo,Southeast
+2014,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2015,Jundiai,SP,São Paulo,Southeast
+2016,Sao Paulo,SP,São Paulo,Southeast
+2017,Sao Paulo,SP,São Paulo,Southeast
+2018,Curitiba,PR,Paraná,South
+2019,Betim,MG,Minas Gerais,Southeast
+2020,Uberlandia,MG,Minas Gerais,Southeast
+2021,Sao Paulo,SP,São Paulo,Southeast
+2022,Goiania,GO,Goiás,Central-West
+2023,Santo Andre,SP,São Paulo,Southeast
+2024,Belo Horizonte,MG,Minas Gerais,Southeast
+2025,Sao Jose Dos Pinhas,PR,Paraná,South
+2026,Timbo,SC,Santa Catarina,South
+2027,Sao Jose,SC,Santa Catarina,South
+2028,Tatui,SP,São Paulo,Southeast
+2029,Colorado,PR,Paraná,South
+2030,Tupa,SP,São Paulo,Southeast
+2031,Sao Paulo,SP,São Paulo,Southeast
+2032,Paraiso Do Sul,RS,Rio Grande do Sul,South
+2033,Sao Paulo,SP,São Paulo,Southeast
+2034,Xanxere,SC,Santa Catarina,South
+2035,Ribeirao Preto,SP,São Paulo,Southeast
+2036,Cuiaba,MT,Mato Grosso,Central-West
+2037,Curitiba,PR,Paraná,South
+2038,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2039,Sao Paulo,SP,São Paulo,Southeast
+2040,Sao Paulo,SP,São Paulo,Southeast
+2041,Canoas,RS,Rio Grande do Sul,South
+2042,Ribeirao Preto,SP,São Paulo,Southeast
+2043,Aruja,SP,São Paulo,Southeast
+2044,Mogi Das Cruzes,SP,São Paulo,Southeast
+2045,Santa Rosa De Viterbo,SP,São Paulo,Southeast
+2046,Sao Paulo,SP,São Paulo,Southeast
+2047,Contagem,MG,Minas Gerais,Southeast
+2048,Sao Paulo,SP,São Paulo,Southeast
+2049,Sao Paulo,SP,São Paulo,Southeast
+2050,Caxias Do Sul,RS,Rio Grande do Sul,South
+2051,Tubarao,SC,Santa Catarina,South
+2052,Curitiba,PR,Paraná,South
+2053,Fronteira,MG,Minas Gerais,Southeast
+2054,Novo Hamburgo,RS,Rio Grande do Sul,South
+2055,Santa Terezinha De Goias,GO,Goiás,Central-West
+2056,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2057,Jaguariuna,SP,São Paulo,Southeast
+2058,Araguari,MG,Minas Gerais,Southeast
+2059,Castro,PR,Paraná,South
+2060,Brusque,SC,Santa Catarina,South
+2061,Curitiba,PR,Paraná,South
+2062,Maua,SP,São Paulo,Southeast
+2063,Claudio,MG,Minas Gerais,Southeast
+2064,Umuarama,PR,Paraná,South
+2065,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2066,Franca,SP,São Paulo,Southeast
+2067,Sao Paulo,SP,São Paulo,Southeast
+2068,Arapongas,PR,Paraná,South
+2069,Toledo,PR,Paraná,South
+2070,Santo Andre,SP,São Paulo,Southeast
+2071,Colombo,PR,Paraná,South
+2072,Araraquara,SP,São Paulo,Southeast
+2073,Mateus Leme,MG,Minas Gerais,Southeast
+2074,Laranjal Paulista,SP,São Paulo,Southeast
+2075,Descalvado,SP,São Paulo,Southeast
+2076,Lagoa Da Prata,MG,Minas Gerais,Southeast
+2077,Salvador,BA,Bahia,Northeast
+2078,Venancio Aires,RS,Rio Grande do Sul,South
+2079,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2080,Colatina,ES,Espírito Santo,Southeast
+2081,Birigui,SP,São Paulo,Southeast
+2082,Belo Horizonte,MG,Minas Gerais,Southeast
+2083,Campinas,SP,São Paulo,Southeast
+2084,Curitiba,PR,Paraná,South
+2085,Guarulhos,SP,São Paulo,Southeast
+2086,Sao Paulo,SP,São Paulo,Southeast
+2087,Cascavel,PR,Paraná,South
+2088,Sorocaba,SP,São Paulo,Southeast
+2089,Estancia Velha,RS,Rio Grande do Sul,South
+2090,Ribeirao Preto,SP,São Paulo,Southeast
+2091,Sao Paulo,SP,São Paulo,Southeast
+2092,Diadema,SP,São Paulo,Southeast
+2093,Sao Paulo,SP,São Paulo,Southeast
+2094,Divinopolis,MG,Minas Gerais,Southeast
+2095,Carazinho,RS,Rio Grande do Sul,South
+2096,Sao Paulo,SP,São Paulo,Southeast
+2097,Canoas,RS,Rio Grande do Sul,South
+2098,Sao Paulo,SP,São Paulo,Southeast
+2099,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+2100,Campo Grande,MS,Mato Grosso do Sul,Central-West
+2101,Ibitinga,SP,São Paulo,Southeast
+2102,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2103,Florianopolis,SC,Santa Catarina,South
+2104,Montenegro,RS,Rio Grande do Sul,South
+2105,Ribeirao Preto,SP,São Paulo,Southeast
+2106,Sao Paulo,SP,São Paulo,Southeast
+2107,Curitiba,PR,Paraná,South
+2108,Sao Paulo,SP,São Paulo,Southeast
+2109,Vargem Grande Do Sul,SP,São Paulo,Southeast
+2110,Botucatu,SP,São Paulo,Southeast
+2111,Sao Paulo,SP,São Paulo,Southeast
+2112,Armacao Dos Buzios,RJ,Rio de Janeiro,Southeast
+2113,Caxias Do Sul,RS,Rio Grande do Sul,South
+2114,Araguari,MG,Minas Gerais,Southeast
+2115,Limeira,SP,São Paulo,Southeast
+2116,Pradopolis,SP,São Paulo,Southeast
+2117,Curitiba,PR,Paraná,South
+2118,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2119,Sao Paulo,SP,São Paulo,Southeast
+2120,Sao Paulo,SP,São Paulo,Southeast
+2121,Ibitinga,SP,São Paulo,Southeast
+2122,Londrina,PR,Paraná,South
+2123,Ribeirao Preto,SP,São Paulo,Southeast
+2124,Tanabi,SP,São Paulo,Southeast
+2125,Goiania,GO,Goiás,Central-West
+2126,Franca,SP,São Paulo,Southeast
+2127,Ipira,SP,São Paulo,Southeast
+2128,Sao Paulo,SP,São Paulo,Southeast
+2129,Sorocaba,SP,São Paulo,Southeast
+2130,Belo Horizonte,MG,Minas Gerais,Southeast
+2131,Sao Paulo,SP,São Paulo,Southeast
+2132,Limeira,SP,São Paulo,Southeast
+2133,Itapevi,SP,São Paulo,Southeast
+2134,Sao Paulo,SP,São Paulo,Southeast
+2135,Caxias Do Sul,RS,Rio Grande do Sul,South
+2136,Sao Paulo,SP,São Paulo,Southeast
+2137,Imbituba,SC,Santa Catarina,South
+2138,Sao Paulo,SP,São Paulo,Southeast
+2139,Extrema,MG,Minas Gerais,Southeast
+2140,Praia Grande,SP,São Paulo,Southeast
+2141,Echapora,SP,São Paulo,Southeast
+2142,Porto Alegre,RS,Rio Grande do Sul,South
+2143,Rio Do Sul,SC,Santa Catarina,South
+2144,Brasilia,DF,Distrito Federal,Central-West
+2145,Sao Paulo,SP,São Paulo,Southeast
+2146,Venancio Aires,RS,Rio Grande do Sul,South
+2147,Itapecerica Da Serra,SP,São Paulo,Southeast
+2148,Ribeirao Preto,SP,São Paulo,Southeast
+2149,Florianopolis,SC,Santa Catarina,South
+2150,Sao Paulo,SP,São Paulo,Southeast
+2151,Curitiba,PR,Paraná,South
+2152,Garulhos,SP,São Paulo,Southeast
+2153,Sao Paulo,SP,São Paulo,Southeast
+2154,Sao Paulo,SP,São Paulo,Southeast
+2155,Santo Andre,SP,São Paulo,Southeast
+2156,Arapongas,PR,Paraná,South
+2157,Piracicaba,SP,São Paulo,Southeast
+2158,Sao Paulo,SP,São Paulo,Southeast
+2159,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2160,Santos,SP,São Paulo,Southeast
+2161,Sao Paulo,SP,São Paulo,Southeast
+2162,Hortolandia,SP,São Paulo,Southeast
+2163,Duque De Caxias,RJ,Rio de Janeiro,Southeast
+2164,Curitibanos,SC,Santa Catarina,South
+2165,Florianopolis,SC,Santa Catarina,South
+2166,Sao Paulo,SP,São Paulo,Southeast
+2167,Jacarei,SP,São Paulo,Southeast
+2168,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2169,Maua,SP,São Paulo,Southeast
+2170,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2171,Sao Paulo,SP,São Paulo,Southeast
+2172,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2173,Blumenau,SC,Santa Catarina,South
+2174,Duque De Caxias,RJ,Rio de Janeiro,Southeast
+2175,Passos,MG,Minas Gerais,Southeast
+2176,Sao Paulo,SP,São Paulo,Southeast
+2177,Curitiba,PR,Paraná,South
+2178,Ibitinga,SP,São Paulo,Southeast
+2179,Itajai,SC,Santa Catarina,South
+2180,Curitiba,PR,Paraná,South
+2181,Parana,PR,Paraná,South
+2182,Sao Jose Dos Pinhais,PR,Paraná,South
+2183,Uba,MG,Minas Gerais,Southeast
+2184,Macae,RJ,Rio de Janeiro,Southeast
+2185,Sao Paulo,SP,São Paulo,Southeast
+2186,Formosa Do Oeste,PR,Paraná,South
+2187,Sao Paulo,SP,São Paulo,Southeast
+2188,Sao Paulo,SP,São Paulo,Southeast
+2189,Sao Paulo,SP,São Paulo,Southeast
+2190,Brasilia,DF,Distrito Federal,Central-West
+2191,Sao Paulo,SP,São Paulo,Southeast
+2192,Sao Paulo,SP,São Paulo,Southeast
+2193,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2194,Belo Horizonte,MG,Minas Gerais,Southeast
+2195,Sorocaba,SP,São Paulo,Southeast
+2196,Sao Paulo,SP,São Paulo,Southeast
+2197,Santa Catarina,SC,Santa Catarina,South
+2198,Guarulhos,SP,São Paulo,Southeast
+2199,Sao Jose,SC,Santa Catarina,South
+2200,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2201,Porto Ferreira,SP,São Paulo,Southeast
+2202,Blumenau,SC,Santa Catarina,South
+2203,Jacarei,SP,São Paulo,Southeast
+2204,Americana,SP,São Paulo,Southeast
+2205,Sao Paulo,SP,São Paulo,Southeast
+2206,Belo Horizonte,MG,Minas Gerais,Southeast
+2207,Sao Paulo,SP,São Paulo,Southeast
+2208,Sao Paulo,SP,São Paulo,Southeast
+2209,Sao Paulo,SP,São Paulo,Southeast
+2210,Sao Paulo,SP,São Paulo,Southeast
+2211,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2212,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2213,Floranopolis,SC,Santa Catarina,South
+2214,Sao Paulo,SP,São Paulo,Southeast
+2215,Betim,MG,Minas Gerais,Southeast
+2216,Goiania,GO,Goiás,Central-West
+2217,Sao Paulo,SP,São Paulo,Southeast
+2218,Atibaia,SP,São Paulo,Southeast
+2219,Santo Andre,SP,São Paulo,Southeast
+2220,Sao Joao Da Boa Vista,SP,São Paulo,Southeast
+2221,Curitiba,PR,Paraná,South
+2222,Fortaleza,CE,Ceará,Northeast
+2223,Mogi Das Cruzes,SP,São Paulo,Southeast
+2224,Campinas,SP,São Paulo,Southeast
+2225,Campinas,SP,São Paulo,Southeast
+2226,Pedreira,SP,São Paulo,Southeast
+2227,Cajamar,SP,São Paulo,Southeast
+2228,Santo Andre,SP,São Paulo,Southeast
+2229,Birigui,SP,São Paulo,Southeast
+2230,Sao Paulo,SP,São Paulo,Southeast
+2231,Sao Paulo,SP,São Paulo,Southeast
+2232,Ibitinga,SP,São Paulo,Southeast
+2233,Assis,SP,São Paulo,Southeast
+2234,Curitiba,PR,Paraná,South
+2235,Guarulhos,SP,São Paulo,Southeast
+2236,Brasilia,DF,Distrito Federal,Central-West
+2237,Sao Paulo,SP,São Paulo,Southeast
+2238,Guarulhos,SP,São Paulo,Southeast
+2239,Ribeirao Preto,SP,São Paulo,Southeast
+2240,Bauru,SP,São Paulo,Southeast
+2241,Sao Paulo,SP,São Paulo,Southeast
+2242,Sao Bento Do Sul,SC,Santa Catarina,South
+2243,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2244,Sao Paulo,SP,São Paulo,Southeast
+2245,Santa Maria Da Serra,SP,São Paulo,Southeast
+2246,Sao Paulo,SP,São Paulo,Southeast
+2247,Sao Paulo,SP,São Paulo,Southeast
+2248,Brasilia,DF,Distrito Federal,Central-West
+2249,Lencois Paulista,SP,São Paulo,Southeast
+2250,Birigui,SP,São Paulo,Southeast
+2251,Ribeirao Preto,SP,São Paulo,Southeast
+2252,Imbituva,PR,Paraná,South
+2253,Ibirite,MG,Minas Gerais,Southeast
+2254,Toledo,PR,Paraná,South
+2255,Piracicaba,SP,São Paulo,Southeast
+2256,Jaragua Do Sul,SC,Santa Catarina,South
+2257,Guarulhos,SP,São Paulo,Southeast
+2258,Sao Paulo,SP,São Paulo,Southeast
+2259,Valinhos,SP,São Paulo,Southeast
+2260,Sao Paulo,SP,São Paulo,Southeast
+2261,Sao Paulo,SP,São Paulo,Southeast
+2262,Sao Paulo,SP,São Paulo,Southeast
+2263,Sao Jose Dos Pinhais,PR,Paraná,South
+2264,Sao Paulo,SP,São Paulo,Southeast
+2265,Sao Paulo,SP,São Paulo,Southeast
+2266,Ribeirao Preto,SP,São Paulo,Southeast
+2267,Serra Negra,SP,São Paulo,Southeast
+2268,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2269,Limeira,SP,São Paulo,Southeast
+2270,Cajamar,SP,São Paulo,Southeast
+2271,Campo Magro,PR,Paraná,South
+2272,Sao Paulo,SP,São Paulo,Southeast
+2273,Ribeirao Preto,SP,São Paulo,Southeast
+2274,Sao Carlos,SP,São Paulo,Southeast
+2275,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2276,Curitiba,PR,Paraná,South
+2277,Niteroi,RJ,Rio de Janeiro,Southeast
+2278,Santo Andre,SP,São Paulo,Southeast
+2279,Paracambi,RJ,Rio de Janeiro,Southeast
+2280,Florianopolis,SC,Santa Catarina,South
+2281,Laurentino,SC,Santa Catarina,South
+2282,Guaruja,SP,São Paulo,Southeast
+2283,Sao Paulo,SP,São Paulo,Southeast
+2284,Piracicaba,SP,São Paulo,Southeast
+2285,Sao Paulo,SP,São Paulo,Southeast
+2286,Garca,SP,São Paulo,Southeast
+2287,Sao Paulo Sp,SP,São Paulo,Southeast
+2288,Sao Paulo,SP,São Paulo,Southeast
+2289,Sao Jose Dos Campos,SP,São Paulo,Southeast
+2290,Mairinque,SP,São Paulo,Southeast
+2291,Sao Paulo,SP,São Paulo,Southeast
+2292,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2293,Santo Andre,SP,São Paulo,Southeast
+2294,Sao Paulo,SP,São Paulo,Southeast
+2295,Sao Paulo,SP,São Paulo,Southeast
+2296,Itajai,SC,Santa Catarina,South
+2297,Sao Paulo,SP,São Paulo,Southeast
+2298,Almirante Tamandare,PR,Paraná,South
+2299,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2300,Sao Paulo,SP,São Paulo,Southeast
+2301,Nova Friburgo,RJ,Rio de Janeiro,Southeast
+2302,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2303,Sao Paulo,SP,São Paulo,Southeast
+2304,Curitiba,PR,Paraná,South
+2305,Sao Paulo,SP,São Paulo,Southeast
+2306,Sao Paulo,SP,São Paulo,Southeast
+2307,Salto,SP,São Paulo,Southeast
+2308,Porto Ferreira,SP,São Paulo,Southeast
+2309,Ribeirao Preto,SP,São Paulo,Southeast
+2310,Brusque,SC,Santa Catarina,South
+2311,Criciuma,SC,Santa Catarina,South
+2312,Porto Alegre,RS,Rio Grande do Sul,South
+2313,Mesquita,RJ,Rio de Janeiro,Southeast
+2314,Sao Paluo,SP,São Paulo,Southeast
+2315,Lencois Paulista,SP,São Paulo,Southeast
+2316,Sao Paulo,SP,São Paulo,Southeast
+2317,Guara,SP,São Paulo,Southeast
+2318,Sao Paulo,SP,São Paulo,Southeast
+2319,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2320,Auriflama/Sp,SP,São Paulo,Southeast
+2321,Sao Paulo,SP,São Paulo,Southeast
+2322,Curitiba,PR,Paraná,South
+2323,Mogi Guacu,SP,São Paulo,Southeast
+2324,Sao Paulo,SP,São Paulo,Southeast
+2325,Sao Paulo,SP,São Paulo,Southeast
+2326,Apucarana,PR,Paraná,South
+2327,Curitiba,PR,Paraná,South
+2328,Osasco,SP,São Paulo,Southeast
+2329,Assis,SP,São Paulo,Southeast
+2330,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2331,Mogi Das Cruzes,SP,São Paulo,Southeast
+2332,Vera Cruz,SP,São Paulo,Southeast
+2333,Presidente Prudente,SP,São Paulo,Southeast
+2334,Sorocaba,SP,São Paulo,Southeast
+2335,Fortaleza,CE,Ceará,Northeast
+2336,Curitiba,PR,Paraná,South
+2337,Paulinia,SP,São Paulo,Southeast
+2338,Indaiatuba,SP,São Paulo,Southeast
+2339,Santana De Parnaiba,SP,São Paulo,Southeast
+2340,Tiradentes,MG,Minas Gerais,Southeast
+2341,Neopolis,SE,Sergipe,Northeast
+2342,Sao Paulo,SP,São Paulo,Southeast
+2343,Guaruja,SP,São Paulo,Southeast
+2344,Sao Paulo,SP,São Paulo,Southeast
+2345,Lajeado,RS,Rio Grande do Sul,South
+2346,Curitiba,PR,Paraná,South
+2347,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2348,Guarulhos,SP,São Paulo,Southeast
+2349,Atibaia,SP,São Paulo,Southeast
+2350,Contagem,MG,Minas Gerais,Southeast
+2351,Sao Paulo,SP,São Paulo,Southeast
+2352,Portao,RS,Rio Grande do Sul,South
+2353,Imbe,RS,Rio Grande do Sul,South
+2354,Registro,SP,São Paulo,Southeast
+2355,Caxias Do Sul,RS,Rio Grande do Sul,South
+2356,Jaboticabal,SP,São Paulo,Southeast
+2357,Sao Paulo,SP,São Paulo,Southeast
+2358,Sao Paulo,SP,São Paulo,Southeast
+2359,Sao Paulo,SP,São Paulo,Southeast
+2360,Hortolandia,SP,São Paulo,Southeast
+2361,Sao Paulo,SP,São Paulo,Southeast
+2362,Rio De Janeiro,SP,São Paulo,Southeast
+2363,Fortaleza,CE,Ceará,Northeast
+2364,Guanambi,BA,Bahia,Northeast
+2365,Concordia,SC,Santa Catarina,South
+2366,Pacatuba,CE,Ceará,Northeast
+2367,Sao Miguel Do Oeste,SC,Santa Catarina,South
+2368,Taboao Da Serra,SP,São Paulo,Southeast
+2369,Maringa,PR,Paraná,South
+2370,Artur Nogueira,SP,São Paulo,Southeast
+2371,Laurentino,SC,Santa Catarina,South
+2372,Sao Paulo,SP,São Paulo,Southeast
+2373,Joinville,SC,Santa Catarina,South
+2374,Braganca Paulista,SP,São Paulo,Southeast
+2375,Santo Andre,SP,São Paulo,Southeast
+2376,Porto Alegre,RS,Rio Grande do Sul,South
+2377,Abadia De Goias,GO,Goiás,Central-West
+2378,Guarulhos,SP,São Paulo,Southeast
+2379,Curitiba,PR,Paraná,South
+2380,Sao Paulo,SP,São Paulo,Southeast
+2381,Sao Paulo,SP,São Paulo,Southeast
+2382,Pocos De Caldas,MG,Minas Gerais,Southeast
+2383,Uberaba,MG,Minas Gerais,Southeast
+2384,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2385,Campo Largo,PR,Paraná,South
+2386,Sao Paulo,SP,São Paulo,Southeast
+2387,Pitangueiras,SP,São Paulo,Southeast
+2388,Tocantins,SP,São Paulo,Southeast
+2389,Itaipulandia,PR,Paraná,South
+2390,Sao Paulo,SP,São Paulo,Southeast
+2391,Arapongas,PR,Paraná,South
+2392,Petropolis,RJ,Rio de Janeiro,Southeast
+2393,Itaquaquecetuba,SP,São Paulo,Southeast
+2394,Sao Paulo,SP,São Paulo,Southeast
+2395,Porto Belo,SC,Santa Catarina,South
+2396,Sorocaba,SP,São Paulo,Southeast
+2397,Sao Paulo,SP,São Paulo,Southeast
+2398,Angra Dos Reis Rj,RJ,Rio de Janeiro,Southeast
+2399,Novo Hamburgo,RS,Rio Grande do Sul,South
+2400,Paulinia,SP,São Paulo,Southeast
+2401,Brasilia,DF,Distrito Federal,Central-West
+2402,Sao Paulo,SP,São Paulo,Southeast
+2403,Itapecerica Da Serra,SP,São Paulo,Southeast
+2404,Uberlandia,MG,Minas Gerais,Southeast
+2405,Porto Alegre,RS,Rio Grande do Sul,South
+2406,Sao Paulo,SP,São Paulo,Southeast
+2407,Sando Andre,SP,São Paulo,Southeast
+2408,Xanxere,SC,Santa Catarina,South
+2409,Maringa,PR,Paraná,South
+2410,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2411,Jacarei,SP,São Paulo,Southeast
+2412,Sao Paulo,SP,São Paulo,Southeast
+2413,Indaiatuba,SP,São Paulo,Southeast
+2414,Brusque,SC,Santa Catarina,South
+2415,Sumare,SP,São Paulo,Southeast
+2416,Cascavel,PR,Paraná,South
+2417,Avare,SP,São Paulo,Southeast
+2418,Pocos De Caldas,MG,Minas Gerais,Southeast
+2419,Sao Paulo,SP,São Paulo,Southeast
+2420,Barueri,SP,São Paulo,Southeast
+2421,Rio Claro,SP,São Paulo,Southeast
+2422,Sao Paulo,SP,São Paulo,Southeast
+2423,Sao Paulo,SP,São Paulo,Southeast
+2424,Florianopolis,SC,Santa Catarina,South
+2425,Bady Bassitt,SP,São Paulo,Southeast
+2426,Maringa,PR,Paraná,South
+2427,Vila Velha,ES,Espírito Santo,Southeast
+2428,Niteroi,RJ,Rio de Janeiro,Southeast
+2429,Santa Rita Do Sapucai,MG,Minas Gerais,Southeast
+2430,Sao Paulo,SP,São Paulo,Southeast
+2431,Santana De Parnaiba,SP,São Paulo,Southeast
+2432,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2433,Sbc/Sp,SP,São Paulo,Southeast
+2434,Sao Paulo,SP,São Paulo,Southeast
+2435,Curitiba,PR,Paraná,South
+2436,Santo Andre,SP,São Paulo,Southeast
+2437,Divinopolis,MG,Minas Gerais,Southeast
+2438,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2439,Curitiba,PR,Paraná,South
+2440,Ibitinga,SP,São Paulo,Southeast
+2441,Pato Bragado,PR,Paraná,South
+2442,Sombrio,SC,Santa Catarina,South
+2443,Blumenau,SC,Santa Catarina,South
+2444,Curitiba,PR,Paraná,South
+2445,Curitiba,SP,São Paulo,Southeast
+2446,Taubate,SP,São Paulo,Southeast
+2447,Sao Paulo,SP,São Paulo,Southeast
+2448,Nova Friburgo,RJ,Rio de Janeiro,Southeast
+2449,Birigui,SP,São Paulo,Southeast
+2450,Nova Odessa,SP,São Paulo,Southeast
+2451,Palhoca,SP,São Paulo,Southeast
+2452,Ribeirao Preto,SP,São Paulo,Southeast
+2453,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2454,Juiz De Fora,MG,Minas Gerais,Southeast
+2455,Mirassol,SP,São Paulo,Southeast
+2456,Sao Paulo,SP,São Paulo,Southeast
+2457,Jaragua Do Sul,SC,Santa Catarina,South
+2458,Sao Paulo,SP,São Paulo,Southeast
+2459,Suzano,SP,São Paulo,Southeast
+2460,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2461,Ribeirao Preto,SP,São Paulo,Southeast
+2462,Cotia,SP,São Paulo,Southeast
+2463,Curitiba,PR,Paraná,South
+2464,Baependi,MG,Minas Gerais,Southeast
+2465,Sao Paulo,SP,São Paulo,Southeast
+2466,Sao Paulo,SP,São Paulo,Southeast
+2467,4482255,RJ,Rio de Janeiro,Southeast
+2468,Cordilheira Alta,SC,Santa Catarina,South
+2469,Guaruja,SP,São Paulo,Southeast
+2470,Rio De Janeiro \Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2471,Serra Negra,SP,São Paulo,Southeast
+2472,Sao Paulo,SP,São Paulo,Southeast
+2473,Sao Paulo,SP,São Paulo,Southeast
+2474,Sao Paulo,SP,São Paulo,Southeast
+2475,Uba,MG,Minas Gerais,Southeast
+2476,Votorantim,SP,São Paulo,Southeast
+2477,Contagem,MG,Minas Gerais,Southeast
+2478,Sao Paulo,SP,São Paulo,Southeast
+2479,Ilheus,BA,Bahia,Northeast
+2480,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2481,Cotia,SP,São Paulo,Southeast
+2482,Sao Bento,PB,Paraíba,Northeast
+2483,Sao Paulo,SP,São Paulo,Southeast
+2484,Sao Paulo,SP,São Paulo,Southeast
+2485,Santo Andre,SP,São Paulo,Southeast
+2486,Sao Paulo,SP,São Paulo,Southeast
+2487,Sao Paulo,SP,São Paulo,Southeast
+2488,Caxias Do Sul,RS,Rio Grande do Sul,South
+2489,Belo Horizonte,MG,Minas Gerais,Southeast
+2490,Sao Jose Dos Campos,SP,São Paulo,Southeast
+2491,Curitiba,PR,Paraná,South
+2492,Curitiba,PR,Paraná,South
+2493,Mogi Guacu,SP,São Paulo,Southeast
+2494,Nova Lima,MG,Minas Gerais,Southeast
+2495,Ibitinga,SP,São Paulo,Southeast
+2496,Jacutinga,RS,Rio Grande do Sul,South
+2497,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2498,Apucarana,PR,Paraná,South
+2499,Ibitinga,SP,São Paulo,Southeast
+2500,Londrina,PR,Paraná,South
+2501,Ibitinga,SP,São Paulo,Southeast
+2502,Belo Horizonte,MG,Minas Gerais,Southeast
+2503,Massaranduba,SC,Santa Catarina,South
+2504,Americana,SP,São Paulo,Southeast
+2505,Sao Paulo,SP,São Paulo,Southeast
+2506,Nova Odessa,SP,São Paulo,Southeast
+2507,Sao Carlos,SP,São Paulo,Southeast
+2508,Arapongas,PR,Paraná,South
+2509,Porto Seguro,BA,Bahia,Northeast
+2510,Atibaia,SP,São Paulo,Southeast
+2511,Jundiai,SP,São Paulo,Southeast
+2512,Aperibe,RJ,Rio de Janeiro,Southeast
+2513,Brasilia,DF,Distrito Federal,Central-West
+2514,Itapetininga,SP,São Paulo,Southeast
+2515,Divinopolis,MG,Minas Gerais,Southeast
+2516,Sao Paulo,SP,São Paulo,Southeast
+2517,Sao Paulo,SP,São Paulo,Southeast
+2518,Sao Jose Dos Pinhais,PR,Paraná,South
+2519,Mococa,SP,São Paulo,Southeast
+2520,Juzeiro Do Norte,CE,Ceará,Northeast
+2521,Santo Andre,SP,São Paulo,Southeast
+2522,Sao Paulo,SP,São Paulo,Southeast
+2523,Sao Paulo,SP,São Paulo,Southeast
+2524,Toledo,PR,Paraná,South
+2525,Sao Paulo,SP,São Paulo,Southeast
+2526,Atibaia,SP,São Paulo,Southeast
+2527,Sao Paulo,SP,São Paulo,Southeast
+2528,Pompeia,SP,São Paulo,Southeast
+2529,Garopaba,SC,Santa Catarina,South
+2530,Divinopolis,MG,Minas Gerais,Southeast
+2531,Sao Paulo,SP,São Paulo,Southeast
+2532,Sao Paulo,SP,São Paulo,Southeast
+2533,Sao Paulo,SP,São Paulo,Southeast
+2534,Sao Paulo,SP,São Paulo,Southeast
+2535,Formosa,GO,Goiás,Central-West
+2536,Santo Andre,SP,São Paulo,Southeast
+2537,Sao Paulo,SP,São Paulo,Southeast
+2538,Centro,MG,Minas Gerais,Southeast
+2539,Curitiba,PR,Paraná,South
+2540,Piracicaba,SP,São Paulo,Southeast
+2541,Sao Paulo,SP,São Paulo,Southeast
+2542,Cotia,SP,São Paulo,Southeast
+2543,Artur Nogueira,SP,São Paulo,Southeast
+2544,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2545,Ribeirao Das Neves,MG,Minas Gerais,Southeast
+2546,Ibitinga,SP,São Paulo,Southeast
+2547,Sao Paulo,SP,São Paulo,Southeast
+2548,Salto,SP,São Paulo,Southeast
+2549,Araraquara,SP,São Paulo,Southeast
+2550,Sao Paulo,SP,São Paulo,Southeast
+2551,Osasco,SP,São Paulo,Southeast
+2552,Guiricema,MG,Minas Gerais,Southeast
+2553,Curitiba,PR,Paraná,South
+2554,Londrina,SP,São Paulo,Southeast
+2555,Rio De Janeiro / Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2556,Atibaia,SP,São Paulo,Southeast
+2557,Sao Paulo,SP,São Paulo,Southeast
+2558,Sao Paulo,SP,São Paulo,Southeast
+2559,Belford Roxo,RJ,Rio de Janeiro,Southeast
+2560,Sao Paulo,SP,São Paulo,Southeast
+2561,Formosa,GO,Goiás,Central-West
+2562,Sao Paulo,SP,São Paulo,Southeast
+2563,Floresta,PR,Paraná,South
+2564,Mandaguacu,PR,Paraná,South
+2565,Sao Paulo,SP,São Paulo,Southeast
+2566,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2567,Sao Paulo,SP,São Paulo,Southeast
+2568,Praia Grande,SP,São Paulo,Southeast
+2569,Formiga,MG,Minas Gerais,Southeast
+2570,Curitiba,PR,Paraná,South
+2571,Mombuca,SP,São Paulo,Southeast
+2572,Sao Paulo,SP,São Paulo,Southeast
+2573,Sao Paulo,SP,São Paulo,Southeast
+2574,Baependi,MG,Minas Gerais,Southeast
+2575,Apucarana,PR,Paraná,South
+2576,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2577,Porto Alegre,RS,Rio Grande do Sul,South
+2578,Sao Paulo,SP,São Paulo,Southeast
+2579,Ponta Grossa,PR,Paraná,South
+2580,Sao Paulo,SP,São Paulo,Southeast
+2581,Sao Paulo,SP,São Paulo,Southeast
+2582,Olimpia,SP,São Paulo,Southeast
+2583,Bady Bassitt,SP,São Paulo,Southeast
+2584,Juiz De Fora,SP,São Paulo,Southeast
+2585,Sao Paulo,SP,São Paulo,Southeast
+2586,Sao Paulo,SP,São Paulo,Southeast
+2587,Sao Paulo,SP,São Paulo,Southeast
+2588,Igrejinha,RS,Rio Grande do Sul,South
+2589,Sao Paulo,SP,São Paulo,Southeast
+2590,Mogi Das Cruzes,SP,São Paulo,Southeast
+2591,Sbc,SP,São Paulo,Southeast
+2592,Sao Pedro Da Aldeia,RJ,Rio de Janeiro,Southeast
+2593,Santo Andre,SP,São Paulo,Southeast
+2594,Piracicaba,SP,São Paulo,Southeast
+2595,Sao Paulo,SP,São Paulo,Southeast
+2596,Belo Horizonte,MG,Minas Gerais,Southeast
+2597,Brusque,SC,Santa Catarina,South
+2598,Pinhais,PR,Paraná,South
+2599,Sao Sebastiao,SP,São Paulo,Southeast
+2600,Sao Paulo,SP,São Paulo,Southeast
+2601,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2602,Sao Paulo,SP,São Paulo,Southeast
+2603,Jaguariuna,SP,São Paulo,Southeast
+2604,Sao Paulo,SP,São Paulo,Southeast
+2605,Curitiba,PR,Paraná,South
+2606,Borda Da Mata,MG,Minas Gerais,Southeast
+2607,Franca,SP,São Paulo,Southeast
+2608,Sao Paulo,SP,São Paulo,Southeast
+2609,Fortaleza,CE,Ceará,Northeast
+2610,Belo Horizonte,MG,Minas Gerais,Southeast
+2611,Sao Jose Dos Pinhais,PR,Paraná,South
+2612,Cachoeirinha,RS,Rio Grande do Sul,South
+2613,Ibitinga,SP,São Paulo,Southeast
+2614,Maringa,PR,Paraná,South
+2615,Belo Horizonte,MG,Minas Gerais,Southeast
+2616,Itapeva,SP,São Paulo,Southeast
+2617,Sao Paulo,SP,São Paulo,Southeast
+2618,Osvaldo Cruz,SP,São Paulo,Southeast
+2619,Cachoeira Do Sul,RS,Rio Grande do Sul,South
+2620,Cascavel,PR,Paraná,South
+2621,Belo Horizonte,MG,Minas Gerais,Southeast
+2622,Sao Paulo,SP,São Paulo,Southeast
+2623,Cachoeiro De Itapemirim,ES,Espírito Santo,Southeast
+2624,Barretos,SP,São Paulo,Southeast
+2625,Joinville,SC,Santa Catarina,South
+2626,Sao Paulo,SP,São Paulo,Southeast
+2627,Curitiba,PR,Paraná,South
+2628,Sao Paulo,SP,São Paulo,Southeast
+2629,Lajeado,RS,Rio Grande do Sul,South
+2630,Sao Paulo,SP,São Paulo,Southeast
+2631,Campos Novos,SC,Santa Catarina,South
+2632,Sao Paulo,SP,São Paulo,Southeast
+2633,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2634,Petropolis,RJ,Rio de Janeiro,Southeast
+2635,Sao Paulo,SP,São Paulo,Southeast
+2636,Vargem Grande Paulista,SP,São Paulo,Southeast
+2637,Sao Paulo,SP,São Paulo,Southeast
+2638,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2639,Recife,PE,Pernambuco,Northeast
+2640,Sarandi,PR,Paraná,South
+2641,Sao Paulo,SP,São Paulo,Southeast
+2642,Jaragua Do Sul,SC,Santa Catarina,South
+2643,Cruzeiro,SP,São Paulo,Southeast
+2644,Itajai,SC,Santa Catarina,South
+2645,Sao Paulo,SP,São Paulo,Southeast
+2646,Loanda,PR,Paraná,South
+2647,Cascavel,PR,Paraná,South
+2648,Farroupilha,RS,Rio Grande do Sul,South
+2649,Sao Paulo,SP,São Paulo,Southeast
+2650,Florianopolis,SC,Santa Catarina,South
+2651,Curitiba,PR,Paraná,South
+2652,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2653,Sao Paulo,SP,São Paulo,Southeast
+2654,Osasco,SP,São Paulo,Southeast
+2655,Sao Paulo,SP,São Paulo,Southeast
+2656,Sao Paulo,SP,São Paulo,Southeast
+2657,Santos,SP,São Paulo,Southeast
+2658,Sao Paulo,SP,São Paulo,Southeast
+2659,Curitiba,PR,Paraná,South
+2660,Sao Paulo,SP,São Paulo,Southeast
+2661,Sao Paulo,SP,São Paulo,Southeast
+2662,Camboriu,SC,Santa Catarina,South
+2663,Pelotas,RS,Rio Grande do Sul,South
+2664,Campinas,SP,São Paulo,Southeast
+2665,Sao Paulo,SP,São Paulo,Southeast
+2666,Sao Paulo,SP,São Paulo,Southeast
+2667,Santo Andre,SP,São Paulo,Southeast
+2668,Cascavel,PR,Paraná,South
+2669,Guarulhos,SP,São Paulo,Southeast
+2670,Mogi Guacu,SP,São Paulo,Southeast
+2671,Sao Paulo,SP,São Paulo,Southeast
+2672,Duque De Caxias,RJ,Rio de Janeiro,Southeast
+2673,Jaguaruna,SC,Santa Catarina,South
+2674,Sao Paulo,SP,São Paulo,Southeast
+2675,Braganca Paulista,SP,São Paulo,Southeast
+2676,Guarulhos,SP,São Paulo,Southeast
+2677,Curitiba,PR,Paraná,South
+2678,Maua,SP,São Paulo,Southeast
+2679,Sao Paulo,SP,São Paulo,Southeast
+2680,Rolandia,PR,Paraná,South
+2681,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2682,Ipaussu,SP,São Paulo,Southeast
+2683,Brasilia,DF,Distrito Federal,Central-West
+2684,Engenheiro Coelho,SP,São Paulo,Southeast
+2685,Sao Paulo,SP,São Paulo,Southeast
+2686,Sao Paulo,SP,São Paulo,Southeast
+2687,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2688,Sao Paulo,SP,São Paulo,Southeast
+2689,Sao Paulo,SP,São Paulo,Southeast
+2690,Sao Paulo,SP,São Paulo,Southeast
+2691,Arapongas,PR,Paraná,South
+2692,Joinville,SC,Santa Catarina,South
+2693,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2694,Curitiba,PR,Paraná,South
+2695,Aracatuba,SP,São Paulo,Southeast
+2696,Brejao,PE,Pernambuco,Northeast
+2697,Presidente Epitacio,SP,São Paulo,Southeast
+2698,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2699,Arapongas,PR,Paraná,South
+2700,Sao Paulo,SP,São Paulo,Southeast
+2701,Sao Pedro,SP,São Paulo,Southeast
+2702,Carapicuiba,SP,São Paulo,Southeast
+2703,Toledo,PR,Paraná,South
+2704,Sao Paulo,SP,São Paulo,Southeast
+2705,Diadema,SP,São Paulo,Southeast
+2706,Marilia,SP,São Paulo,Southeast
+2707,Belo Horizonte,MG,Minas Gerais,Southeast
+2708,Sao Carlos,SP,São Paulo,Southeast
+2709,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2710,Navegantes,SC,Santa Catarina,South
+2711,Curitiba,PR,Paraná,South
+2712,Maringa,PR,Paraná,South
+2713,Nova Iguacu,RJ,Rio de Janeiro,Southeast
+2714,Limeira,SP,São Paulo,Southeast
+2715,Sao Paulo,SP,São Paulo,Southeast
+2716,Santo Andre,SP,São Paulo,Southeast
+2717,Fazenda Rio Grande,PR,Paraná,South
+2718,Sao Paulo,SP,São Paulo,Southeast
+2719,Joinville,SC,Santa Catarina,South
+2720,Amparo,SP,São Paulo,Southeast
+2721,Bauru,SP,São Paulo,Southeast
+2722,Brusque,SC,Santa Catarina,South
+2723,Sao Paulo,SP,São Paulo,Southeast
+2724,Pelotas,RS,Rio Grande do Sul,South
+2725,Sao Paulo,SP,São Paulo,Southeast
+2726,Sao Paulo,SP,São Paulo,Southeast
+2727,Guarulhos,SP,São Paulo,Southeast
+2728,Sao Paulo,SP,São Paulo,Southeast
+2729,Goiania,GO,Goiás,Central-West
+2730,Rio Claro,SP,São Paulo,Southeast
+2731,Sao Paulo,SP,São Paulo,Southeast
+2732,Sao Paulo,SP,São Paulo,Southeast
+2733,Sao Paulo,SP,São Paulo,Southeast
+2734,Sao Paulo,SP,São Paulo,Southeast
+2735,Sao Paulo,SP,São Paulo,Southeast
+2736,Blumenau,SC,Santa Catarina,South
+2737,Chapeco,SC,Santa Catarina,South
+2738,Belo Horizonte,MG,Minas Gerais,Southeast
+2739,Santo Andre,SP,São Paulo,Southeast
+2740,Sao Paulo,SP,São Paulo,Southeast
+2741,Ubatuba,SP,São Paulo,Southeast
+2742,Guarulhos,SP,São Paulo,Southeast
+2743,Curitibanos,SC,Santa Catarina,South
+2744,Ibitinga,SP,São Paulo,Southeast
+2745,Aracatuba,SP,São Paulo,Southeast
+2746,Barueri,SP,São Paulo,Southeast
+2747,Sao Paulo,SP,São Paulo,Southeast
+2748,Ferraz De  Vasconcelos,SP,São Paulo,Southeast
+2749,Teresopolis,RJ,Rio de Janeiro,Southeast
+2750,Itapevi,SP,São Paulo,Southeast
+2751,Pato Branco,PR,Paraná,South
+2752,Votuporanga,SP,São Paulo,Southeast
+2753,Indaiatuba,SP,São Paulo,Southeast
+2754,Brasilia,DF,Distrito Federal,Central-West
+2755,Jussara,PR,Paraná,South
+2756,Novo Horizonte,SP,São Paulo,Southeast
+2757,Santa Barbara D Oeste,SP,São Paulo,Southeast
+2758,Sao Paulo,SP,São Paulo,Southeast
+2759,Blumenau,SC,Santa Catarina,South
+2760,Sao Paulo,SP,São Paulo,Southeast
+2761,Itapecerica Da Serra,SP,São Paulo,Southeast
+2762,Bauru,SP,São Paulo,Southeast
+2763,Sao Paulo,SP,São Paulo,Southeast
+2764,Petropolis,RJ,Rio de Janeiro,Southeast
+2765,Praia Grande,SP,São Paulo,Southeast
+2766,Rolandia,PR,Paraná,South
+2767,Uberlandia,MG,Minas Gerais,Southeast
+2768,Sao Paulo,SP,São Paulo,Southeast
+2769,Maringa,PR,Paraná,South
+2770,Joinville,SC,Santa Catarina,South
+2771,Sao Paulo,SP,São Paulo,Southeast
+2772,Sao Paulo,SP,São Paulo,Southeast
+2773,Sao Paulo,SP,São Paulo,Southeast
+2774,Santos,SP,São Paulo,Southeast
+2775,Sao Paulo,SP,São Paulo,Southeast
+2776,Florianopolis,SC,Santa Catarina,South
+2777,Palhoca,SC,Santa Catarina,South
+2778,Sao  Paulo,SP,São Paulo,Southeast
+2779,Campinas,SP,São Paulo,Southeast
+2780,Ibitinga,SP,São Paulo,Southeast
+2781,Guarulhos,SP,São Paulo,Southeast
+2782,Aracatuba,SP,São Paulo,Southeast
+2783,Sao Paulo,SP,São Paulo,Southeast
+2784,Messias Targino,RN,Rio Grande do Norte,Northeast
+2785,Belo Horizonte,MG,Minas Gerais,Southeast
+2786,Sao Paulo,SP,São Paulo,Southeast
+2787,Sao Paulo,SP,São Paulo,Southeast
+2788,Diadema,SP,São Paulo,Southeast
+2789,Sao Paulo,SP,São Paulo,Southeast
+2790,Salvador,BA,Bahia,Northeast
+2791,Paulinia,SP,São Paulo,Southeast
+2792,Embu Guacu,SP,São Paulo,Southeast
+2793,Rio Claro,SP,São Paulo,Southeast
+2794,Recife,PE,Pernambuco,Northeast
+2795,Sao Paulo,SP,São Paulo,Southeast
+2796,Sao Paulo,SP,São Paulo,Southeast
+2797,Londrina,PR,Paraná,South
+2798,Lencois Paulista,SP,São Paulo,Southeast
+2799,Ribeirao Preto,SP,São Paulo,Southeast
+2800,Ribeirao Preto,SP,São Paulo,Southeast
+2801,Armacao Dos Buzios,RJ,Rio de Janeiro,Southeast
+2802,Sao Paulo,SP,São Paulo,Southeast
+2803,Porto Ferreira,SP,São Paulo,Southeast
+2804,Rio De Janeiro,SP,São Paulo,Southeast
+2805,Limeira,SP,São Paulo,Southeast
+2806,Florianopolis,SC,Santa Catarina,South
+2807,Itatiba,SP,São Paulo,Southeast
+2808,Sao Paulo,SP,São Paulo,Southeast
+2809,Franca,SP,São Paulo,Southeast
+2810,Guarulhos,SP,São Paulo,Southeast
+2811,Indaial,SC,Santa Catarina,South
+2812,Sao Paulo,SP,São Paulo,Southeast
+2813,Londrina,PR,Paraná,South
+2814,Santos,SP,São Paulo,Southeast
+2815,Mogi Guacu,SP,São Paulo,Southeast
+2816,Teresopolis,RJ,Rio de Janeiro,Southeast
+2817,Piracicaba,SP,São Paulo,Southeast
+2818,Sao Paulo,SP,São Paulo,Southeast
+2819,Guarulhos,SP,São Paulo,Southeast
+2820,Brasilia,DF,Distrito Federal,Central-West
+2821,Ponta Grossa,PR,Paraná,South
+2822,Ribeirao Preto,SP,São Paulo,Southeast
+2823,Curitiba,PR,Paraná,South
+2824,Sao Paulo,SP,São Paulo,Southeast
+2825,Sao Paulo,SP,São Paulo,Southeast
+2826,Goiania,GO,Goiás,Central-West
+2827,Sao Paulo,SP,São Paulo,Southeast
+2828,Lages,SC,Santa Catarina,South
+2829,Sao Paulo,SP,São Paulo,Southeast
+2830,Bauru,SP,São Paulo,Southeast
+2831,Botucatu,SP,São Paulo,Southeast
+2832,Sao Goncalo,RJ,Rio de Janeiro,Southeast
+2833,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2834,Araraquara,SP,São Paulo,Southeast
+2835,Sao Paulo,SP,São Paulo,Southeast
+2836,Jau,SP,São Paulo,Southeast
+2837,Joinville,SC,Santa Catarina,South
+2838,Uberaba,MG,Minas Gerais,Southeast
+2839,Nova Iguacu,RJ,Rio de Janeiro,Southeast
+2840,Aracatuba,SP,São Paulo,Southeast
+2841,Vitoria,ES,Espírito Santo,Southeast
+2842,Andradas,SP,São Paulo,Southeast
+2843,Sao Paulo,SP,São Paulo,Southeast
+2844,Itajai,SC,Santa Catarina,South
+2845,Sao Paulo,SP,São Paulo,Southeast
+2846,Arvorezinha,RS,Rio Grande do Sul,South
+2847,Porto Alegre,RS,Rio Grande do Sul,South
+2848,Santa Terezinha De Itaipu,PR,Paraná,South
+2849,Maua,SP,São Paulo,Southeast
+2850,Osasco,SP,São Paulo,Southeast
+2851,Sao Paulo,SP,São Paulo,Southeast
+2852,Sao Paulo,SP,São Paulo,Southeast
+2853,Cambe,PR,Paraná,South
+2854,Sao Paulo,SP,São Paulo,Southeast
+2855,Sao Paulo,SP,São Paulo,Southeast
+2856,Santo Andre,SP,São Paulo,Southeast
+2857,Sao Paulo,SP,São Paulo,Southeast
+2858,Brusque,SC,Santa Catarina,South
+2859,Carapicuiba,SP,São Paulo,Southeast
+2860,Artur Nogueira,SP,São Paulo,Southeast
+2861,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2862,Sao Jose Dos Campos,SP,São Paulo,Southeast
+2863,Sao Paulo,SP,São Paulo,Southeast
+2864,Santana De Parnaiba,SP,São Paulo,Southeast
+2865,Porto Alegre,RS,Rio Grande do Sul,South
+2866,Curitiba,PR,Paraná,South
+2867,Sao Paulo,SP,São Paulo,Southeast
+2868,Cachoeirinha,RS,Rio Grande do Sul,South
+2869,Sao Paulo,SP,São Paulo,Southeast
+2870,Itaquaquecetuba,SP,São Paulo,Southeast
+2871,Sao Paulo,SP,São Paulo,Southeast
+2872,Bariri,SP,São Paulo,Southeast
+2873,Sao Paulo,SP,São Paulo,Southeast
+2874,Sao Paulo,SP,São Paulo,Southeast
+2875,Ponta Grossa,PR,Paraná,South
+2876,Presidente Getulio,SC,Santa Catarina,South
+2877,Sao Paulo,SP,São Paulo,Southeast
+2878,Itauna,MG,Minas Gerais,Southeast
+2879,Salvador,BA,Bahia,Northeast
+2880,Araxa,MG,Minas Gerais,Southeast
+2881,Fernandopolis,SP,São Paulo,Southeast
+2882,Vitoria,ES,Espírito Santo,Southeast
+2883,Curitiba,PR,Paraná,South
+2884,Canoas,RS,Rio Grande do Sul,South
+2885,Sao Paulo,SP,São Paulo,Southeast
+2886,Alvares Machado,SP,São Paulo,Southeast
+2887,Ribeirao Preto,SP,São Paulo,Southeast
+2888,Pinhalzinho,SC,Santa Catarina,South
+2889,Brasilia,DF,Distrito Federal,Central-West
+2890,Sao Paulo,SP,São Paulo,Southeast
+2891,Sao Paulo,SP,São Paulo,Southeast
+2892,Caxias Do Sul,SP,São Paulo,Southeast
+2893,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2894,Guarulhos,SP,São Paulo,Southeast
+2895,Curitiba,PR,Paraná,South
+2896,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2897,Sao Paulo,SP,São Paulo,Southeast
+2898,Braganca Paulista,SP,São Paulo,Southeast
+2899,Piracicaba,SP,São Paulo,Southeast
+2900,Maringa,PR,Paraná,South
+2901,Guarulhos,SP,São Paulo,Southeast
+2902,Santo Andre,SP,São Paulo,Southeast
+2903,Sao Paulo,SP,São Paulo,Southeast
+2904,Cascavel,PR,Paraná,South
+2905,Penapolis,SP,São Paulo,Southeast
+2906,Itaquaquecetuba,SP,São Paulo,Southeast
+2907,Soledade,RS,Rio Grande do Sul,South
+2908,Santo Andre/Sao Paulo,SP,São Paulo,Southeast
+2909,Fernandopolis,SP,São Paulo,Southeast
+2910,Pedreira,SP,São Paulo,Southeast
+2911,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2912,Sorocaba,SP,São Paulo,Southeast
+2913,Taruma,SP,São Paulo,Southeast
+2914,Porto Ferreira,SP,São Paulo,Southeast
+2915,Rio Do Sul,SC,Santa Catarina,South
+2916,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2917,Barueri,SP,São Paulo,Southeast
+2918,Atibaia,SP,São Paulo,Southeast
+2919,Pilar Do Sul,SP,São Paulo,Southeast
+2920,Marechal Candido Rondon,SP,São Paulo,Southeast
+2921,Vicosa,MG,Minas Gerais,Southeast
+2922,Votorantim,SP,São Paulo,Southeast
+2923,Ararangua,SC,Santa Catarina,South
+2924,Sao Paulo,SP,São Paulo,Southeast
+2925,Curitiba,PR,Paraná,South
+2926,Carapicuiba,SP,São Paulo,Southeast
+2927,Mairipora,SP,São Paulo,Southeast
+2928,Guarulhos,SP,São Paulo,Southeast
+2929,Sao Paulo,SP,São Paulo,Southeast
+2930,Sao Paulo,SP,São Paulo,Southeast
+2931,Curitiba,PR,Paraná,South
+2932,Sao Paulo,SP,São Paulo,Southeast
+2933,Juiz De Fora,MG,Minas Gerais,Southeast
+2934,Sao Bernardo Do Campo,SP,São Paulo,Southeast
+2935,Ibitinga,SP,São Paulo,Southeast
+2936,Ibitinga,SP,São Paulo,Southeast
+2937,Novo Hamburgo,RS,Rio Grande do Sul,South
+2938,Maringa,PR,Paraná,South
+2939,Sao Paulo,SP,São Paulo,Southeast
+2940,Palhoca,SC,Santa Catarina,South
+2941,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2942,Indaiatuba,SP,São Paulo,Southeast
+2943,Porto Ferreira,SP,São Paulo,Southeast
+2944,Sao Paulo,SP,São Paulo,Southeast
+2945,Salto,SP,São Paulo,Southeast
+2946,Ribeirao Preto,SP,São Paulo,Southeast
+2947,Campanha,MG,Minas Gerais,Southeast
+2948,Londrina,PR,Paraná,South
+2949,Sao Paulo,SP,São Paulo,Southeast
+2950,Sao Paulo,SP,São Paulo,Southeast
+2951,Sorocaba,SP,São Paulo,Southeast
+2952,Santo Antonio De Posse,SP,São Paulo,Southeast
+2953,Blumenau,SC,Santa Catarina,South
+2954,Ferraz De Vasconcelos,SP,São Paulo,Southeast
+2955,Sao Paulo,SP,São Paulo,Southeast
+2956,Lorena,SP,São Paulo,Southeast
+2957,Sao Paulo,SP,São Paulo,Southeast
+2958,Orleans,SC,Santa Catarina,South
+2959,"Rio De Janeiro, Rio De Janeiro, Brasil",RJ,Rio de Janeiro,Southeast
+2960,Sumare,SP,São Paulo,Southeast
+2961,Sao Paulo,SP,São Paulo,Southeast
+2962,Icara,SC,Santa Catarina,South
+2963,Sumare,SP,São Paulo,Southeast
+2964,Sao Jose Dos Pinhais,SP,São Paulo,Southeast
+2965,Sao Paulo,SP,São Paulo,Southeast
+2966,Presidente Prudente,SP,São Paulo,Southeast
+2967,Pedreira,SP,São Paulo,Southeast
+2968,Tres Coroas,RS,Rio Grande do Sul,South
+2969,Sao Paulo,SP,São Paulo,Southeast
+2970,Bonfinopolis De Minas,MG,Minas Gerais,Southeast
+2971,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2972,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2973,Rio De Janeiro,RJ,Rio de Janeiro,Southeast
+2974,Pelotas,RS,Rio Grande do Sul,South
+2975,Sao Caetano Do Sul,SP,São Paulo,Southeast
+2976,Foz Do Iguacu,PR,Paraná,South
+2977,Serrana,SP,São Paulo,Southeast
+2978,Maua,SP,São Paulo,Southeast
+2979,Campinas,SP,São Paulo,Southeast
+2980,Londrina,PR,Paraná,South
+2981,Salvador,BA,Bahia,Northeast
+2982,Sao Paulo,SP,São Paulo,Southeast
+2983,Sao Paulo,SP,São Paulo,Southeast
+2984,Belo Horizonte,MG,Minas Gerais,Southeast
+2985,Sao Paulo,SP,São Paulo,Southeast
+2986,Guarulhos,SP,São Paulo,Southeast
+2987,Limeira,SP,São Paulo,Southeast
+2988,Ribeirao Preto,SP,São Paulo,Southeast
+2989,Sao Paulo,SP,São Paulo,Southeast
+2990,Sao Paulo,SP,São Paulo,Southeast
+2991,Votorantim,SP,São Paulo,Southeast
+2992,Sao Paulo,SP,São Paulo,Southeast
+2993,Joao Pessoa,PB,Paraíba,Northeast
+2994,Sao Jose Do Rio Preto,SP,São Paulo,Southeast
+2995,Sao Paulo,SP,São Paulo,Southeast
+2996,Curitiba,PR,Paraná,South
+2997,Pocos De Caldas,MG,Minas Gerais,Southeast
+2998,Uberaba,MG,Minas Gerais,Southeast
+2999,Presidente Prudente,SP,São Paulo,Southeast
+3000,Arinos,MG,Minas Gerais,Southeast
+3001,Campinas,SP,São Paulo,Southeast
+3002,Sao Paulo,SP,São Paulo,Southeast
+3003,Osasco,SP,São Paulo,Southeast
+3004,Caratinga,MG,Minas Gerais,Southeast
+3005,Marica,RJ,Rio de Janeiro,Southeast
+3006,Curitiba,PR,Paraná,South
+3007,Campinas,SP,São Paulo,Southeast
+3008,Barbacena/ Minas Gerais,MG,Minas Gerais,Southeast
+3009,Sao Paulo,SP,São Paulo,Southeast
+3010,Pedreira,SP,São Paulo,Southeast
+3011,Nova Friburgo,RJ,Rio de Janeiro,Southeast
+3012,Ribeirao Preto,SP,São Paulo,Southeast
+3013,Jambeiro,SP,São Paulo,Southeast
+3014,Sao Paulo,SP,São Paulo,Southeast
+3015,Santo Andre,SP,São Paulo,Southeast
+3016,Curitiba,PR,Paraná,South
+3017,Mogi Das Cruzes,SP,São Paulo,Southeast
+3018,Sao Paulo,SP,São Paulo,Southeast
+3019,Sao Paulo,SP,São Paulo,Southeast
+3020,Guarulhos,SP,São Paulo,Southeast
+3021,Sao Paulo,SP,São Paulo,Southeast
+3022,Itabira,MG,Minas Gerais,Southeast
+3023,Londrina,PR,Paraná,South
+3024,Americana,SP,São Paulo,Southeast
+3025,Guarulhos,SP,São Paulo,Southeast
+3026,Curitiba,PR,Paraná,South
+3027,Mirassol,SP,São Paulo,Southeast
+3028,Amparo,SP,São Paulo,Southeast
+3029,Campinas,SP,São Paulo,Southeast

@@ -1,0 +1,131 @@
+// =====================================================================
+// Olist sales dashboard: DAX for Power BI Desktop
+// Copy each block into Power BI: Modeling > New table / New measure.
+// Currency is Brazilian real (BRL, shown as R$).
+// =====================================================================
+
+
+// ---------------------------------------------------------------------
+// 1. DATE TABLE  (Modeling > New table)
+//    Then: Table tools > Mark as date table > Date column = [Date]
+// ---------------------------------------------------------------------
+Date =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2017, 1, 1 ), DATE ( 2018, 8, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "Quarter", "Q" & QUARTER ( [Date] ),
+    "Month Number", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM" ),
+    "Year Month", FORMAT ( [Date], "YYYY-MM" ),
+    "Month Start", DATE ( YEAR ( [Date] ), MONTH ( [Date] ), 1 ),
+    "Weekday", FORMAT ( [Date], "ddd" ),
+    "Weekday Number", WEEKDAY ( [Date], 2 )
+)
+
+
+// ---------------------------------------------------------------------
+// 2. MEASURES TABLE  (Modeling > New table)
+//    An empty table that only holds measures keeps the field list tidy.
+// ---------------------------------------------------------------------
+_Measures = ROW ( "Placeholder", BLANK () )
+
+
+// ---------------------------------------------------------------------
+// 3. SALES MEASURES  (select _Measures, then Modeling > New measure)
+// ---------------------------------------------------------------------
+
+// Product revenue, excluding freight.             Format: R$ #,0
+Revenue = SUM ( fact_sales[price] )
+
+// Freight charged to customers.                   Format: R$ #,0
+Freight = SUM ( fact_sales[freight] )
+
+// fact_sales has one row per order LINE, so orders must be counted as distinct keys.
+Orders = DISTINCTCOUNT ( fact_sales[order_key] )
+
+Items Sold = COUNTROWS ( fact_sales )
+
+Customers = DISTINCTCOUNT ( fact_sales[customer_key] )
+
+//                                                 Format: R$ #,0.00
+Avg Order Value = DIVIDE ( [Revenue], [Orders] )
+
+//                                                 Format: Percentage, 1 decimal
+Freight % of Revenue = DIVIDE ( [Freight], [Revenue] )
+
+// Time intelligence needs the marked Date table.
+Revenue PY = CALCULATE ( [Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+// Like-for-like growth: only dates that have a full year of history before them
+// are compared, so a card with no filter shows Jan-Aug 2018 vs Jan-Aug 2017
+// instead of 20 months against 8.               Format: Percentage, 1 decimal
+Revenue YoY % =
+VAR FirstComparable = EDATE ( CALCULATE ( MIN ( 'Date'[Date] ), ALL ( 'Date' ) ), 12 )
+VAR ComparableDates = FILTER ( VALUES ( 'Date'[Date] ), 'Date'[Date] >= FirstComparable )
+VAR ThisPeriod = CALCULATE ( [Revenue], ComparableDates )
+VAR LastPeriod = CALCULATE ( [Revenue], SAMEPERIODLASTYEAR ( ComparableDates ) )
+RETURN
+    IF ( LastPeriod > 0, DIVIDE ( ThisPeriod - LastPeriod, LastPeriod ) )
+
+
+// ---------------------------------------------------------------------
+// 4. DELIVERY & SATISFACTION MEASURES
+//    Delivery and review values are stored on every line of an order.
+//    To avoid counting a 3-item order three times, these measures first
+//    take ONE value per order (VALUES of order_key), then average.
+// ---------------------------------------------------------------------
+
+Delivered Orders =
+CALCULATE ( [Orders], fact_sales[is_delivered] = 1 )
+
+Late Orders =
+CALCULATE ( [Orders], fact_sales[is_late] = 1 )
+
+//                                                 Format: Percentage, 1 decimal
+Late Delivery % = DIVIDE ( [Late Orders], [Delivered Orders] )
+
+//                                                 Format: Decimal, 1 decimal
+Avg Delivery Days =
+AVERAGEX (
+    CALCULATETABLE ( VALUES ( fact_sales[order_key] ), fact_sales[is_delivered] = 1 ),
+    CALCULATE ( MAX ( fact_sales[delivery_days] ) )
+)
+
+//                                                 Format: Decimal, 2 decimals
+Avg Review Score =
+AVERAGEX (
+    VALUES ( fact_sales[order_key] ),
+    CALCULATE ( MAX ( fact_sales[review_score] ) )
+)
+
+Reviewed Orders =
+CALCULATE ( [Orders], NOT ISBLANK ( fact_sales[review_score] ) )
+
+//                                                 Format: Percentage, 1 decimal
+1-Star Review % =
+DIVIDE ( CALCULATE ( [Orders], fact_sales[review_score] = 1 ), [Reviewed Orders] )
+
+
+// ---------------------------------------------------------------------
+// 5. CUSTOMER MEASURES
+// ---------------------------------------------------------------------
+
+Repeat Customers =
+CALCULATE ( [Customers], dim_customer[customer_type] = "Repeat" )
+
+//                                                 Format: Percentage, 1 decimal
+Repeat Customer % = DIVIDE ( [Repeat Customers], [Customers] )
+
+//                                                 Format: R$ #,0.00
+Revenue per Customer = DIVIDE ( [Revenue], [Customers] )
+
+
+// ---------------------------------------------------------------------
+// 6. DYNAMIC TITLE (optional polish)
+//    Use as a card or as a visual title (Format > Title > fx).
+// ---------------------------------------------------------------------
+Selected Period =
+VAR FirstDay = MIN ( 'Date'[Date] )
+VAR LastDay = MAX ( 'Date'[Date] )
+RETURN
+    FORMAT ( FirstDay, "MMM YYYY" ) & " to " & FORMAT ( LastDay, "MMM YYYY" )
